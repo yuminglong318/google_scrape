@@ -1,0 +1,2781 @@
+{
+    "baseball": [
+        {
+            "first_name": "John",
+            "last_name": "Quinlan",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Quinlan_John_2023_Headshot.jpg",
+            "school": "Menlo-Atherton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Barnhorst",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Barnhorst_Matt_2023_Headshot.jpg",
+            "school": "Ponte Vedra HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Ross",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Ross_Ryan_2023_Headshot.jpg",
+            "school": "York Community HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Caden",
+            "last_name": "Wildman",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Wildman_Caden_2023_Headshot.jpg",
+            "school": "East Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Ellison",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Ellison_Chris_2023_Headshot.jpg",
+            "school": "Howell HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Musser",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Musser_Kyle_2023_Headshot.jpg",
+            "school": "Manheim Township HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Jensen",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Jensen_Max_2023_Headshot.jpg",
+            "school": "Lake Braddock Secondary",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Franco",
+            "last_name": "Alonso",
+            "profile picture": "https://cornellbigred.com/images/2020/2/6/Alonso_Franco_2020_crop.jpg",
+            "school": "Polytechnic School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Story",
+            "last_name": "Kimura",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Kimura_Story_2023_Headshot.jpg",
+            "school": "The Lawrenceville School (N.J.)",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Wils",
+            "last_name": "Guy",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Guy_Wils_2023_Headshot.jpg",
+            "school": "San Luis Obispo HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Porter",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Porter_Ryan_2023_Headshot.jpg",
+            "school": "Paetow HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Shane",
+            "last_name": "Russell",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Russell_Shane_2023_Headshot.jpg",
+            "school": "Charlotte Christian School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Kaplan",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Kaplan_Sam_2023_Headshot.jpg",
+            "school": "The Meadows School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Long",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Long_Will_2023_Headshot.jpg",
+            "school": "Langley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "William",
+            "last_name": "Stephens",
+            "profile picture": "https://cornellbigred.com/images/2021/4/30/Stephens_William_2021_219_crop.jpg",
+            "school": "Marist HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Swidorski",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Swidorski_TJ_2023_Headshot.jpg",
+            "school": "East Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Keller",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Keller_Noah_2023_Headshot.jpg",
+            "school": "Goodrich HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "Hamill",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Hamill_Ethan_2023_Headshot.jpg",
+            "school": "Thomas Dale HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Elijah",
+            "last_name": "Diaz",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Diaz_Elijah_2023_Headshot.jpg",
+            "school": "All Hallows HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jakobi",
+            "last_name": "Davis",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Davis_Jakobi_2023_Headshot.jpg",
+            "school": "Sarasota Riverview HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Braden",
+            "last_name": "Mack",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Mack_Braden_2023_Headshot.jpg",
+            "school": "Potomac HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Beck",
+            "last_name": "Urofsky",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Urofsky_Beck_2023_Headshot.jpg",
+            "school": "Bethesda-Chevy Chase HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Tom",
+            "last_name": "Clancy",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Clancy_Tom_2023_Headshot.jpg",
+            "school": "Newark Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Edwards",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Edwards_Spencer_2023_Headshot.jpg",
+            "school": "Santa Margarita Catholic",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "Hollerbach",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Hollerbach_Joe_2023_Headshot.jpg",
+            "school": "Miramonte HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Gerfen",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Gerfen_John_2023_Headshot_r1bBi.jpg",
+            "school": "Brewster HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Carson",
+            "last_name": "Mayfield",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Mayfield_Carson_2023_Headshot.jpg",
+            "school": "Bishop O'Connell HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Von",
+            "last_name": "Baker",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Baker_Von_2023_Headshot.jpg",
+            "school": "Oppenheim-Ephratah-St. Johnsville HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Walters",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Walters_Matthew_2023_Headshot.jpg",
+            "school": "Granbury HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "William",
+            "last_name": "Jaun",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Jaun_Will_2023_Headshot.jpg",
+            "school": "St. Xavier HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nathan",
+            "last_name": "Waugh",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Waugh_Nathan_2023_Headshot.jpg",
+            "school": "Yorba Linda HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Shea",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Shea_Josh_2023_Headshot.jpg",
+            "school": "Hendrick Hudson HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "August",
+            "last_name": "Biben",
+            "profile picture": "https://cornellbigred.com/images/2022/9/15/Biben_August_2023_Headshot.jpg",
+            "school": "Riverdale Country School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "mens-basketball": [
+        {
+            "first_name": "Evan",
+            "last_name": "Williams",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Williams_Evan_23_CROP.jpg",
+            "school": "Plano East Senior HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nazir",
+            "last_name": "Williams",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Williams_Nazzir_23_CROP.jpg",
+            "school": "South Kent School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Imegwu",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Imegwu_Ian_23_CROP.jpg",
+            "school": "Blair Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Kiachian",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Kiachian_Ryan_2022_crop.jpg",
+            "school": "Bellarmine College Preparatory",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Beccles",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Beccles_Jacob_23_CROP.jpg",
+            "school": "Constitution HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Franson",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Franson_Hayden_23_CROP.jpg",
+            "school": "American Fork HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Tsang Hinton",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Hinton_Adam_2022_crop.jpg",
+            "school": "Harvard-Westlake School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "AK",
+            "last_name": "Okereke",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Okereke_AK_23_CROP.jpg",
+            "school": "Clovis North HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Isaiah",
+            "last_name": "Gray",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Gray_Isaiah_23_CROP.jpg",
+            "school": "Martin Luther King HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Darius",
+            "last_name": "Ervin",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Ervin_Darius_23_CROP.jpg",
+            "school": "Northfield Mount Hermon School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Keller",
+            "last_name": "Boothby",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Boothby_Keller_2022_crop.jpg",
+            "school": "Prestonwood Christian Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Hansen",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Hansen_Sean_2022_crop.jpg",
+            "school": "Ramsey HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Guy",
+            "last_name": "Ragland Jr.",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Ragland_Guy_23_CROP.jpg",
+            "school": "Northwest Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Fiegen",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Fiegen_Jake_23_CROP.jpg",
+            "school": "New Trier HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "DJ",
+            "last_name": "Nix",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Nix_DJ_23_CROP.jpg",
+            "school": "Cannon School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Baldwin",
+            "profile picture": "https://cornellbigred.com/images/2023/9/1/Baldwin_Josh_23_CROP.jpg",
+            "school": "Belmont Hill School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Watson",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Watson_Max_2022_crop.jpg",
+            "school": "Box Elder HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Manon",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Manon_Chris_2022_crop.jpg",
+            "school": "Saint Joseph Regional HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Cooper",
+            "last_name": "Noard",
+            "profile picture": "https://cornellbigred.com/images/2023/8/22/MBKB_Noard_Cooper_23_CROP.jpg",
+            "school": "Glenbrook South HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Cain",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Cain_Chris_2022_crop.jpg",
+            "school": "Pine Bush HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "football": [
+        {
+            "first_name": "Davon",
+            "last_name": "Kiser",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Kiser_Davon_2022_crop.jpg",
+            "school": "Cardinal Gibbons HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Paul",
+            "last_name": "Lewis III",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Lewis_Paul_2022_crop.jpg",
+            "school": "Archbishop Curley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Trey",
+            "last_name": "Harris",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Harris_Trey_2022_crop.jpg",
+            "school": "Wyoming Seminary Prep",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jameson",
+            "last_name": "Wang",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Wang_Jameson_2022_crop.jpg",
+            "school": "Oaks Christian School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Gannon",
+            "last_name": "Carothers",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Carothers_Gannon_2022_crop.jpg",
+            "school": "Central Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Malin",
+            "last_name": "White",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/White_Malin_2022_crop.jpg",
+            "school": "West Genesee HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "LaPolice",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/LaPolice_Zachary_2022_crop.jpg",
+            "school": "Choate Rosemary Hall",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Madison",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Madison_Christian_2022_crop.jpg",
+            "school": "Wyoming Seminary",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Duby",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Duby_Luke_2022_crop.jpg",
+            "school": "Tates Creek HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "AJ",
+            "last_name": "Holmes",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Holmes_AJ_2022_crop.jpg",
+            "school": "Harvard-Westlake School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Rasean",
+            "last_name": "Thomas",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Thomas_RaSean_2022_crop.jpg",
+            "school": "Cottage Hill Christian Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Rick",
+            "last_name": "Coleman Jr.",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Coleman_Rick_2022_crop.jpg",
+            "school": "Harvey HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Malaga",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Malaga_Luke_2022_crop.jpg",
+            "school": "York Community HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brody",
+            "last_name": "Kidwell",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Kidwell_Brody_2022_crop.jpg",
+            "school": "New Albany HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "DJ",
+            "last_name": "Hooker",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Hooker_DJ_2022_crop.jpg",
+            "school": "Berkeley Preparatory School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nicholas",
+            "last_name": "Laboy",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/LaBoy_Nick_2022_crop.jpg",
+            "school": "Avalon HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Damon",
+            "last_name": "Barnes",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Barnes_Damon_2022_crop.jpg",
+            "school": "Salisbury School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Eddie",
+            "last_name": "Marinaro",
+            "profile picture": "https://cornellbigred.com/images/2022/9/1/Marinaro_Eddie_2022_crop.jpg",
+            "school": "Bishop England HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Hale",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Hale_Dylan_2022_crop.jpg",
+            "school": "Poly Prep Country Day School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jeremiah",
+            "last_name": "Lewis",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Lewis_Jeremiah_2022_crop.jpg",
+            "school": "Archbishop Curley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Fortney",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Fortney_Jackson_2022_crop.jpg",
+            "school": "Cardinal Gibbons HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Robbert",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Robbert_Matt_2022_crop.jpg",
+            "school": "Centereach HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Holt",
+            "last_name": "Fletcher",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Fletcher_Holt_2022_crop.jpg",
+            "school": "Wellesley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Chad",
+            "last_name": "Martini",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Martini_Chad_2022_crop.jpg",
+            "school": "Watchung Hills Regional HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Tommy",
+            "last_name": "MacPherson",
+            "profile picture": null,
+            "school": "Glenbrook South HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Parker",
+            "last_name": "Woodring",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Woodring_Parker_2022_crop.jpg",
+            "school": "Wilton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Joey",
+            "last_name": "Cheshire",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Cheshire_Joey_2022_crop.jpg",
+            "school": "Lakeland Senior HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jimmy",
+            "last_name": "Taylor",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Taylor_Jimmy_2022_crop.jpg",
+            "school": "Nolan Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Rayjohn",
+            "last_name": "White",
+            "profile picture": null,
+            "school": "Bishop Amat Memorial HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Bass-Sulpizio",
+            "profile picture": null,
+            "school": "La Jolla Country Day School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brayon",
+            "last_name": "Crawford",
+            "profile picture": null,
+            "school": "Village Christian School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Manny",
+            "last_name": "Adebi",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Adebi_Chukwuemeka_2022_crop.jpg",
+            "school": "Wilmington Friends School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nicholas",
+            "last_name": "Dlabach",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Dlabach_Nicholas_2022_crop.jpg",
+            "school": "Christian Brothers HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Muhammad-Ali",
+            "last_name": "Kobo",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Kobo_MuhammadAli_2022_crop.jpg",
+            "school": "Beechcroft HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Doryn",
+            "last_name": "Smith",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Smith_Doryn_2022_crop.jpg",
+            "school": "Salisbury School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Johnny",
+            "last_name": "Williamson",
+            "profile picture": null,
+            "school": "The Canterbury School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nomar",
+            "last_name": "Tejada",
+            "profile picture": null,
+            "school": "The Brooks School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matheson",
+            "last_name": "Bossick",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Bossick_Matheson_2022_crop.jpg",
+            "school": "University School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Sahakian",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Sahakian_Ben_2022_crop.jpg",
+            "school": "Prospect HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Fitzgerald",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Fitzgerald_Kyle_2022_crop.jpg",
+            "school": "Canton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Johntu",
+            "last_name": "Reed",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Reed_Johntu_crop.jpg",
+            "school": "Jimtown HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Drew",
+            "last_name": "Powell",
+            "profile picture": "https://cornellbigred.com/images/2022/9/1/Powell_Drew_2022_crop.jpg",
+            "school": "Barron Collier HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alan",
+            "last_name": "Zhao",
+            "profile picture": null,
+            "school": "Marriotts Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Chideme-Alfaro",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Chideme_Alfaro_Anthony_2022_crop.jpg",
+            "school": "Jesuit HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Banbury",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Banbury_Luke_2022_crop.jpg",
+            "school": "Upper St. Clair HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "O'Keefe",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/OKeefe_Michael_2022_crop.jpg",
+            "school": "Milton Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Braylon",
+            "last_name": "Howard",
+            "profile picture": null,
+            "school": "Hillcrest-Tuscaloosa HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mamadou",
+            "last_name": "Bah",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Bah_Mamadou_2022_crop.jpg",
+            "school": "The Hill School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Roy",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Roy_Nate_2022_crop.jpg",
+            "school": "South Side HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Stebbins",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Stebbins_Jake_2022_crop.jpg",
+            "school": "Seneca Valley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Devia'n",
+            "last_name": "Parker-Rogers",
+            "profile picture": null,
+            "school": "North Star Academy Lincoln Park HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Reinbold",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Reinbold_James_2022_crop.jpg",
+            "school": "Dimond HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Henderson",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Henderson_Connor_2022_crop.jpg",
+            "school": "Porter Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Labb\u00e9",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Labbe_Noah_2022_crop.jpg",
+            "school": "Brother Martin HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ean",
+            "last_name": "Pope",
+            "profile picture": null,
+            "school": "Miami Central Senior HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Amasha",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Amasha_Daniel_2022_crop.jpg",
+            "school": "La Salle Institute",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ayden",
+            "last_name": "McCarter",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/McCarter_Ayden_2022_crop.jpg",
+            "school": "Catawba Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Polinsky",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Polinsky_Sean_2022_crop.jpg",
+            "school": "Loomis Chaffee HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Wall",
+            "profile picture": null,
+            "school": "Jackson-Reed HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Wilson",
+            "last_name": "Selzer",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Selzer_Wilson_2022_crop.jpg",
+            "school": "Rockhurst HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Gavin",
+            "last_name": "Heintschel",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Heintschel_Gavin_2022_crop.jpg",
+            "school": "Bluffton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Eddy",
+            "last_name": "Tillman",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Tillman_Eddy_2022_crop.jpg",
+            "school": "Pittsburgh Central Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nathaniel",
+            "last_name": "Hillenburg",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Hillenburg_Nathaniel_2022_crop.jpg",
+            "school": "Cathedral HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Bonn",
+            "profile picture": null,
+            "school": "Charles O. Dickerson HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Ramsay",
+            "profile picture": null,
+            "school": "Mamaroneck HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nic",
+            "last_name": "Paschall",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Paschall_Nic_2022_crop.jpg",
+            "school": "Lipscomb Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Sloan",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Sloan_Hunter_2022_crop.jpg",
+            "school": "Blair Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Albright",
+            "profile picture": null,
+            "school": "Grimsley HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Garrahy",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Garrahy_Connor_2022_crop.jpg",
+            "school": "The Kent School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jason",
+            "last_name": "Kirkland",
+            "profile picture": null,
+            "school": "Mountain Ridge HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Taylor",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Taylor_Noah_2022_crop.jpg",
+            "school": "St. Xavier HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Katz",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Katz_Spencer_2022_crop.jpg",
+            "school": "Princeton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Yacovelli",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Yacovelli_Mason_2022_crop.jpg",
+            "school": "Archbishop Wood HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Malachi",
+            "last_name": "Edgerly",
+            "profile picture": null,
+            "school": "Bay HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Bradley",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Bradley_Jackson_2022_crop.jpg",
+            "school": "Webb School of Knoxville",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brendan",
+            "last_name": "Chestnut",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Chestnut_Brendan_2022_crop.jpg",
+            "school": "New Trier Township HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Terrance",
+            "last_name": "Caldwell",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Caldwell_Terrance_2022_crop.jpg",
+            "school": "Mater Dei HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mike",
+            "last_name": "Jones",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Jones_Mike_2022_crop.jpg",
+            "school": "Mechanicsburg Area HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Tye",
+            "last_name": "Chirico",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Chirico_Tye_2022_crop.jpg",
+            "school": "Highlands Ranch HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Page",
+            "profile picture": null,
+            "school": "Kellenberg Memorial HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ty",
+            "last_name": "Short",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Short_Ty_2022_crop.jpg",
+            "school": "Antonian College Prep",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Evan",
+            "last_name": "Nesmith",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Nesmith_Evan_2022_crop.jpg",
+            "school": "Pittsford Mendon HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Quilici",
+            "profile picture": null,
+            "school": "St. Ignatius College Prep",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Ma",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Ma_Kevin_2022_crop.jpg",
+            "school": "Middlesex School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Keegan",
+            "last_name": "Opper",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Opper_Keegan_2022_crop.jpg",
+            "school": "Traverse City Central HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Timothy",
+            "last_name": "Bruen",
+            "profile picture": null,
+            "school": "Catholic Memorial School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Davis",
+            "last_name": "Watson",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Watson_Davis_2022_crop.jpg",
+            "school": "Darlington School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Pante",
+            "profile picture": null,
+            "school": "The Haverford School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Micah",
+            "last_name": "Sahakian",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Sahakian_Micah_2022_crop.jpg",
+            "school": "Prospect HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Powers",
+            "profile picture": "https://cornellbigred.com/images/2022/9/1/Powers_Jack_2022_crop.jpg",
+            "school": "Westminster Christian Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Devin",
+            "last_name": "Malone",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Malone_Devin_2022_crop.jpg",
+            "school": "Phillips Exeter Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mac",
+            "last_name": "Dorward",
+            "profile picture": null,
+            "school": "Marin Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Joel",
+            "last_name": "Meglic",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Meglic_Joel_2022_crop.jpg",
+            "school": "Notre Dame De La Baie Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brendan",
+            "last_name": "Lee",
+            "profile picture": null,
+            "school": "Gonzaga College HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Taylor",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Taylor_Logan_2022_crop.jpg",
+            "school": "Groton School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "Musungu",
+            "profile picture": null,
+            "school": "Andover Senior HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Parker",
+            "last_name": "Spellacy",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Spellacy_Parker_2022_crop.jpg",
+            "school": "Cathedral HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ryder",
+            "last_name": "Kurtz",
+            "profile picture": null,
+            "school": "St. Paul's School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "A.J.",
+            "last_name": "Konstanty",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Konstanty_AJ_2022_crop.jpg",
+            "school": "Staples HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Pilc",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Pilc_Matthew_2022_crop.jpg",
+            "school": "Greenwich HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Bo",
+            "last_name": "Graham",
+            "profile picture": "https://cornellbigred.com/images/2022/9/14/Graham_Bo_2022_crop.jpg",
+            "school": "Woodinville HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Isaiah",
+            "last_name": "Gomes",
+            "profile picture": "https://cornellbigred.com/images/2022/8/31/Gomes_Isaiah_2022_crop.jpg",
+            "school": "Belmont Hill School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brayden",
+            "last_name": "Walker",
+            "profile picture": null,
+            "school": "Cardinal Gibbons HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Declan",
+            "last_name": "Ochendowski",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Ochendowski_Declan_2022_crop.jpg",
+            "school": "Penn Trafford HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Amon",
+            "last_name": "Williams",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Williams_Amon_2022_crop.jpg",
+            "school": "Pomfret School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Maxwell",
+            "last_name": "Van Fleet",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/VanFleet_Max_2022_crop.jpg",
+            "school": "St. Paul\u2019s School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Onome",
+            "last_name": "Kessington",
+            "profile picture": "https://cornellbigred.com/images/2022/9/14/Kessington_Onome_2022_crop.jpg",
+            "school": "Fairport HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ezekiel",
+            "last_name": "Evans",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Evans_Ezekial_2022_crop.jpg",
+            "school": "Kinkaid School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Kennedy",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Kennedy_Jackson_2022_crop.jpg",
+            "school": "John Champe HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Morgan",
+            "profile picture": "https://cornellbigred.com/images/2022/8/23/Morgan_Connor_2022_crop.jpg",
+            "school": "Jonathan Alder HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "mens-soccer": [
+        {
+            "first_name": "Evan",
+            "last_name": "Sims",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Evan_Sims_23_crop.jpg",
+            "school": "Boulder HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Friedberg",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Ryan_Friedberg_23_crop.jpg",
+            "school": "Westfield HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kisa",
+            "last_name": "Kiingi",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Kisa_Kiingi_23_crop.jpg",
+            "school": "St. Andrew's Episcopal School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Drought",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Connor_Drought_23_crop.jpg",
+            "school": "Kamiak High School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mateo",
+            "last_name": "Rodr\u00edguez",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Mateo_Rodriguez_23_crop.jpg",
+            "school": "Northwood HS [N.Y.]",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Cam",
+            "last_name": "Maquat",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Cam_Maquat_23_crop.jpg",
+            "school": "Hopkins School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Latona",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Sam_Latona_23_crop.jpg",
+            "school": "Manchester Central HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alioune",
+            "last_name": "Ka",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Alioune_Ka_23_crop.jpg",
+            "school": "Richland HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Wilson",
+            "last_name": "Eisner",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Wilson_Eisner_23_crop.jpg",
+            "school": "Menlo-Atherton HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Henry",
+            "last_name": "Hylbert",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Henry_Hylbert_23_crop.jpg",
+            "school": "Montgomery Bell Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Goncalves",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Matthew_Goncalves_23_crop.jpg",
+            "school": "Belmont Hill",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Samways",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Daniel_Samways_23_crop.jpg",
+            "school": "Sycamore HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sahyd",
+            "last_name": "Nevado Masso",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Sahyd_Masso_23_crop.jpg",
+            "school": "Lake Howell HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Carnevale",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Will_Carnevale_23_crop.jpg",
+            "school": "Fox Chapel Area HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Dakota",
+            "last_name": "Jonke",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Dakota_Jonke_23_crop.jpg",
+            "school": "St. Edward HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Lalo",
+            "last_name": "Serrano",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Lalo_Serrano_23_crop.jpg",
+            "school": "Brophy College Preparatory",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Hutchison",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Matthew_Hutchinson_23_crop.jpg",
+            "school": "St. Stephens Episcopal School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Patricio",
+            "last_name": "Parra Ram\u00f3n",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Patricio_Parra_Ramon_23_crop.jpg",
+            "school": "TMI Episocpal",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Cody",
+            "last_name": "Torgovnik",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Cody_Torgovnik_23_crop.jpg",
+            "school": "Gill St. Bernard's School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Lokko",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Danny_Lokko_23_crop.jpg",
+            "school": "King's School Chester",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Goulding",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Ben_Goulding_23_crop.jpg",
+            "school": "Loveland HS [Ohio]",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Westin",
+            "last_name": "Carnevale",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Westin_Carnevale_23_crop.jpg",
+            "school": "Fox Chapel Area HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Johnson",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Andrew_Johnson_23_copy.jpg",
+            "school": "The Haverford School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kurt",
+            "last_name": "Lehmkuhl",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Kurt_Lehmkuhl_23_crop.jpg",
+            "school": "Dublin Coffman HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Smith",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Nate_Smith_23_crop.jpg",
+            "school": "Magruder HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Schaban",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Adam_Schaban_23_crop.jpg",
+            "school": "Timber Creek HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Harris",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Alex_Harris_23_crop.jpg",
+            "school": "Columbia River HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Isaac",
+            "last_name": "Delgado",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Isaac_Delgado_23_crop.jpg",
+            "school": "Cypress Bay High School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "May",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Liam_May_23_crop.jpg",
+            "school": "St. Joseph's Preparatory School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Fernando",
+            "last_name": "Garate",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Fernando_Garate_23_crop.jpg",
+            "school": "Salpointe Catholic HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Balazs",
+            "last_name": "Feher",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Balazs_Feher_23_crop.jpg",
+            "school": "Budapest Fazekas Mih\u00e1ly High School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Miller",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Connor_Miller_23_crop.jpg",
+            "school": "Grandview HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jon",
+            "last_name": "Snider",
+            "profile picture": "https://cornellbigred.com/images/2023/8/17/Jon_Snider_23_crop.jpg",
+            "school": "Commercial College of Iceland",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "womens-basketball": [
+        {
+            "first_name": "Val",
+            "last_name": "Garcia-Martinez",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Garcia-Martinez_Val_23_CROP.jpg",
+            "school": "McAllen Memorial HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Vivienne",
+            "last_name": "Knee",
+            "profile picture": "https://cornellbigred.com/images/2022/8/24/Knee_Vivienne_2022_Cropped.jpg",
+            "school": "Lycee Francais de New York HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sarah",
+            "last_name": "Hathorn",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Hathorn_Sarah_23_CROP.jpg",
+            "school": "A&M Consolidated HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Arianna",
+            "last_name": "Linoxilakis",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Linoxilakis_Ariana_23_CROP.jpg",
+            "school": "Weston HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mia",
+            "last_name": "Beam",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Beam_Mia_23_CROP.jpg",
+            "school": "Christian Academy of Louisville",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jada",
+            "last_name": "Davis",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Davis_Jada_23_CROP.jpg",
+            "school": "The Bishop's School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kaya",
+            "last_name": "Ingram",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Ingram_Kaya_23_CROP.jpg",
+            "school": "La Cueva HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Summer",
+            "last_name": "Parker-Hall",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Parker-Hall_Summer_23_CROP.jpg",
+            "school": "Loyola Academy",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Lexi",
+            "last_name": "Green",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Green_Lexi_23_CROP.jpg",
+            "school": "Pittsford Mendon HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Emily",
+            "last_name": "Pape",
+            "profile picture": "https://cornellbigred.com/images/2023/8/23/Pape_Emily_23_CROP.jpg",
+            "school": "Maine South HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "womens-soccer": [
+        {
+            "first_name": "Erica",
+            "last_name": "Fox",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Fox_Erica_23_crop.jpg",
+            "school": "San Marcos HS",
+            "instagram": {
+                "username": "erica_fox1",
+                "bio": "Erica Fox\ncornell wsoc \u201825",
+                "followers": 1372,
+                "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/359470705_274501611830907_2941935841372682021_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=x7sOZyfuPAYAX_h6ASS&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAbEyqUS_9paJKnMkT4OJ4laqr6_Et49156QQ3EfMqCUQ&oe=6506E3F2&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Natalie",
+            "last_name": "Medugno",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Medugno_Natalie_23_crop.jpg",
+            "school": "Oceanside HS",
+            "instagram": {
+                "username": "nataliemedugno",
+                "bio": "Natalie Medugno\nLI \u2022 @cornellwsoccer @core4nmore",
+                "followers": 1298,
+                "instagram picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/361946058_824515672592677_2790891306778729426_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ME2F4WKyftQAX9RezPQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCpJ9TraqXZb9dJaA1aYrOWOTorpFKohquqvS_mBSc6sg&oe=6506146C&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Naomi",
+            "last_name": "Glassberg",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Glassberg_Naomi_23_crop.jpg",
+            "school": "Northwestern Lehigh HS",
+            "instagram": {
+                "username": "naomiglassberg",
+                "bio": "Naomi Glassberg\n@cornellwsoccer sc: nglassberg",
+                "followers": 663,
+                "instagram picture": "https://instagram.ftpa1-2.fna.fbcdn.net/v/t51.2885-19/376691807_978442069926052_5561232379680492995_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=xRcw5kDnw6oAX-UP947&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCfbdj2f5m2uZTjPQs7WH_9zp0eQwvaNST8r08h4YD6Rg&oe=650560DA&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Brooke",
+            "last_name": "Brown",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Brown_Brooke_23_crop.jpg",
+            "school": "Barrington HS",
+            "instagram": {
+                "username": "brooke.brown14",
+                "bio": "Brooke Brown\nbarrington @cornellwsoccer \u201827",
+                "followers": 1941,
+                "instagram picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/372651570_243217032034224_2203254792616411306_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=7rOvxMdSM_MAX-c83vs&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfABzFUFmo7CqJ136xunCrOk5iH5z05VtJFXlQLYP23_xw&oe=6505AA7A&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Lily",
+            "last_name": "Ellingson",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Ellingson_Lily_23_crop.jpg",
+            "school": "Torrey Pines HS",
+            "instagram": {
+                "username": "lily.ellingson",
+                "bio": "Lily Ellingson\nsan diego \u2022 cornell wsoccer \u201825",
+                "followers": 1056,
+                "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/339281848_647989047137046_6284837570864163433_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=UMVdtbOxVIEAX_f7jcN&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCUtBHAiN3Z-9SUGKHCXjE1dKokaNhdJbpb8uGeNcM6Ng&oe=65072B31&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mia",
+            "last_name": "Gonzalez",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Gonzalez_Mia_23_crop.jpg",
+            "school": "Staples HS",
+            "instagram": {
+                "username": "mfgonz10",
+                "bio": "Mia Gonzalez\ncornell soccer & alpha phi",
+                "followers": 2485,
+                "instagram picture": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/288851307_816072746096469_9217255002592148929_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=5S2QlwMuQpQAX8xDZCN&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAELIL8RGqnN8EA3PF893ljPfyBVHLtjOvgzf5SDULByw&oe=650614B0&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Abigail",
+            "last_name": "Bishara",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Bishara_Abigail_23_crop.jpg",
+            "school": "Clarence HS",
+            "instagram": {
+                "username": "abbybishara",
+                "bio": "Abigail Bishara\ncornell soccer #5 buffalo",
+                "followers": 1541,
+                "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/366501436_766602405153122_8306051703670956282_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=-r8TIF9uNGYAX-dlZPi&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAExHLnAMNj4V01vvjYSwcx-mYnM_BKHUjau_4GHaPtWQ&oe=650719DE&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Isabel",
+            "last_name": "Chapman",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Chapman_Isabel_23_crop.jpg",
+            "school": "Pioneer HS",
+            "instagram": {
+                "username": "isabel.chapmann",
+                "bio": "Isabel Chapman\n@cornellwsoccer #6 | A2 \ud83c\udf32",
+                "followers": 1275,
+                "instagram picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/376857545_986240149291281_8590121939172569392_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=VjOqx6KfUEkAX9pUpXj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBvaSmv1SWnrAu6tOB9i88-3ewsYpDWS8NvX8X4UShIlQ&oe=65056B1B&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Izzy",
+            "last_name": "Scott",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Scott_Izzy_23_crop.jpg",
+            "school": "Westlake HS",
+            "instagram": {
+                "username": "__isabellescot_",
+                "bio": "Izzy Scott\nCornell soccer 26\u2019 Austin, Tx",
+                "followers": 2035,
+                "instagram picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/370053614_631385765641777_210078156432429624_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=_hrVvjj8ymwAX9W5jiE&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDGEBMLLg6KA46jKijYKujKxND1zMYs4ydAQ4wo7-V0Og&oe=650597B2&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jackie",
+            "last_name": "Lasseter",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Lasseter_Jackie_23_crop.jpg",
+            "school": "Cherry Creek HS",
+            "instagram": {
+                "username": "jackie.lasseter",
+                "bio": "Jackie Lasseter\n@cornellwsoccer & @kkg_cornell",
+                "followers": 1413,
+                "instagram picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/277901832_125587383393803_8719466077709139328_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=n2-J2m7KAkYAX-3gpRD&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB6ExuSbL7qSxd3BPcgZdtOwvDCgHUgozprbXMgiKF6qQ&oe=65070CD7&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alanna",
+            "last_name": "Colbert",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Colbert_Alanna_23_crop.jpg",
+            "school": "River Bluff HS",
+            "instagram": {
+                "username": "alanna.colbert",
+                "bio": "Alanna Colbert\n@cornellwsoccer \u201827",
+                "followers": 1287,
+                "instagram picture": "https://instagram.fsan1-1.fna.fbcdn.net/v/t51.2885-19/158931521_765987267681026_5327590829134432874_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsan1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=VtNjopFAfj4AX8zoBKR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCffgjb90MZU46_JNJYGD5v_AtFUa39gCEV2S5AW5rxCQ&oe=650594FE&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sophie",
+            "last_name": "Weeter",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Weeter_Sophie_23_crop.jpg",
+            "school": "Brebeuf Jesuit Prep",
+            "instagram": {
+                "username": "sophieweeter",
+                "bio": "Sophie Weeter\nindy | @cornellwsoccer",
+                "followers": 2177,
+                "instagram picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/359440654_134417676353379_4917483301044300365_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=fAOvV-jfaAkAX_QGRNv&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAUsXJ3dRFto9Ecz0IDJQ-gKvoMIib0ocsQT7v6rSTFAw&oe=65067DF1&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Mariana",
+            "last_name": "Kessinger",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Kessinger_Mariana_23_crop.jpg",
+            "school": "Palo Alto HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Maran",
+            "last_name": "Kingsley",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Kingsley_Maran_23_crop.jpg",
+            "school": "Nardin Academy",
+            "instagram": {
+                "username": "marankingsley",
+                "bio": "Maran Kingsley\nNY & Cornell Soccer\ud83e\uddd8\u200d\u2640\ufe0f",
+                "followers": 1306,
+                "instagram picture": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/370487564_862241978596057_2728639414847889935_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=HOj9tteGPjYAX8mPt6N&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcxF1EEyn1MBCNxbHzO0cipuhfzinBW98dz7kFW5dvLQ&oe=6505B571&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ava",
+            "last_name": "Laden",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Laden_Ava_23_crop.jpg",
+            "school": "Regis Jesuit HS",
+            "instagram": {
+                "username": "_avaladen",
+                "bio": "Ava Laden\nDenver & @cornellwsoccer #13 @aplmoments",
+                "followers": 2234,
+                "instagram picture": "https://instagram.fcae1-1.fna.fbcdn.net/v/t51.2885-19/318148373_1515349808970914_2692136946928931244_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcae1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=u7UC9OVnGZoAX9r-2Fg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBHIkKTvjCOXwXxGexRVhHcniho3D4kkDG2cm6UU2PgqQ&oe=6505A8DC&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Tanum",
+            "last_name": "Nelson",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Nelson_Tanum_23_crop.jpg",
+            "school": "Harwood HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Gaby",
+            "last_name": "Gonzalez",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Gonzalez_Gaby_23_crop.jpg",
+            "school": "Staples HS",
+            "instagram": {
+                "username": "gabyjgonz6",
+                "bio": "Gaby Gonzalez\ncornell soccer @alphaphicornell",
+                "followers": 2001,
+                "instagram picture": "https://instagram.fdet1-1.fna.fbcdn.net/v/t51.2885-19/352375513_790738939129249_7996848707292220866_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdet1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=SQJxr0gJI68AX_Lhe09&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDJ40oTazkSSckzkm93yDawwac4WoKPkczLbcC7C5Qqeg&oe=6505C6C0&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Reinna",
+            "last_name": "Gabriel",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Gabriel_Reinna_23_crop.jpg",
+            "school": "Vista Murrieta HS",
+            "instagram": {
+                "username": "reinnagabriel",
+                "bio": "Reinna Gabriel\nca | @cornellwsoccer",
+                "followers": 1309,
+                "instagram picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/340167743_1251636508791656_4363114017740373601_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=KxU4MCh3UokAX-F60RC&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDeVvlH5S8IqJGc-EdoTiyXbzq3O-tYMvm_pwSRWV-UHw&oe=6506E2A7&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sydney",
+            "last_name": "Allen",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Allen_Sydney_23_crop.jpg",
+            "school": "Bethesda-Chevy Chase HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Grace",
+            "last_name": "Diehl",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Diehl_Grace_23_crop.jpg",
+            "school": "Glenbrook South HS [Ill.]",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Peyton",
+            "last_name": "Nichols",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Nichols_Peyton_23_crop.jpg",
+            "school": "Kent Place School",
+            "instagram": {
+                "username": "peytonnnichols",
+                "bio": "Peyton Nichols\nNJ | Cornell Soccer",
+                "followers": 1121,
+                "instagram picture": "https://instagram.fdet1-2.fna.fbcdn.net/v/t51.2885-19/349142190_1373770726530413_9204590940782717350_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdet1-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=wPD0kF5CGLQAX8V5mRa&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfApyHJOATjnAhY8ZMnIVwqxA1D3iQhw47LVn-LBgDNR5Q&oe=65066288&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Reagan",
+            "last_name": "Pauwels",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Pauwels_Reagan_23_crop.jpg",
+            "school": "Red Bank Catholic",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Brotherton",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Brotherton_Alex_23_crop.jpg",
+            "school": "Dryden HS",
+            "instagram": {
+                "username": "alexxbrotherton",
+                "bio": "Alex Brotherton\ncornell wsoc",
+                "followers": 1764,
+                "instagram picture": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/326194411_6051964808180659_4867465510741258035_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=107&_nc_ohc=m95LYAJDsugAX8ZGO5y&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAZgEni7CFVezhRP4hf4Yu5gByR-NnPuBjVJ7WQZRA7sA&oe=65072C0D&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kendall",
+            "last_name": "Patten",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Patten_Kendall_23_crop.jpg",
+            "school": "New Canaan HS",
+            "instagram": {
+                "username": "kendallpatten",
+                "bio": "Kendall Patten\ncornell wsocc #24 barstool athlete",
+                "followers": 1191,
+                "instagram picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/124705812_1133881420360887_2589341906719921019_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_ohc=A_XEXV-VX-IAX85GiiO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBI4Dvdg2GmEqmTzp7_tLCgU7HB7FiqBZh4jYFg8Y3V3A&oe=6506AB37&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kayla",
+            "last_name": "Ristianto",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Ristianto_Kayla_23_crop.jpg",
+            "school": "Lakehill Preparatory School",
+            "instagram": {
+                "username": "kaylaristianto",
+                "bio": "Kayla Ristianto\nDallas + Cornell Soccer #26 sc: kaylaaristianto @kaysalbum_",
+                "followers": 1235,
+                "instagram picture": "https://instagram.fluk1-1.fna.fbcdn.net/v/t51.2885-19/355459218_229281489912795_447930583406840457_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fluk1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fcsOASQKos4AX_c9-pQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDyfSfn1H4rySY2Elv_r8L4wlRH3PuDR_Uqo_k8maunTA&oe=650728E1&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Laken",
+            "last_name": "Gallman",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Gallman_Laken_23_crop.jpg",
+            "school": "Mountain Island Charter HS",
+            "instagram": {
+                "username": "lakengallman",
+                "bio": "Laken Gallman\n\ud83d\udc83\ud83c\udffd\ud83d\udc95\u2728 RARITY Cogito ergo sum @cornellwsoccer",
+                "followers": 580,
+                "instagram picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/186336937_222946959237095_4816648688624908031_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=111&_nc_ohc=ajNiTejZpI8AX-ycZA8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA6KDumf66ErUWZiGD0dZBiAaDdD5UVkHyn1vhhysdLAQ&oe=6506A5F6&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Maddie",
+            "last_name": "Leroy",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Leroy_Maddie_23_crop.jpg",
+            "school": "Flintridge Sacred Heart Academy",
+            "instagram": {
+                "username": "madison.leroyy",
+                "bio": "Maddie Leroy\nlos angeles | cornell wsoccer",
+                "followers": 1730,
+                "instagram picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/343416382_192630906955685_5430789090767361056_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=2VPGrE6J-6AAX-9qucp&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAxw0vRgca7OIj57j185SHNEbScThbdXmw8f-cIQUQomQ&oe=65063004&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Cecily",
+            "last_name": "Pokigo",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Pokigo_Cecily_23_crop.jpg",
+            "school": "McDonogh School",
+            "instagram": {
+                "username": "cecily.pokigo",
+                "bio": "Cecily Pokigo\ncornell wsoc \u201825 | maryland \ud83e\udd80",
+                "followers": 380,
+                "instagram picture": "https://scontent-den4-1.cdninstagram.com/v/t51.2885-19/264374001_449804899862922_5675529365835264953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-den4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=2lRnHm87gagAX-kCfE2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDPvRsdTksJqr_PQrpd5vXKjb2hmOaD_SYHUf5liSevNw&oe=6506F045&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sydney",
+            "last_name": "Malaga",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Malaga_Sydney_23_crop.jpg",
+            "school": "York Community HS",
+            "instagram": {
+                "username": "sydneymalaga",
+                "bio": "Sydney Malaga\nchicago | cornell wsoc \u201825",
+                "followers": 1780,
+                "instagram picture": "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.2885-19/367020470_1417572435485699_1885814704834346729_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=wdA7vAOX08kAX903c7P&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAQO9cvw0H1O4nT0AAGdcoz4_SLZbjH_kPaI5F8qLRElw&oe=650609D7&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Emily",
+            "last_name": "Gibbons",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Gibbons_Emily_23_crop.jpg",
+            "school": "Hingham HS",
+            "instagram": {
+                "username": "_emilygibbons_",
+                "bio": "Emily Gibbons\nhingham | mass sc: emilygibbons7 @cornellwsoccer \u201827",
+                "followers": 1269,
+                "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/374303646_538568371744598_6080098872890724620_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=TmATK0KpR7kAX-J1wi6&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAlzz6FFlL8b0VQJFEODVbbPN9PsGZNfEVzKV7eCHmfvA&oe=6505CC82&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ava",
+            "last_name": "Jung",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Jung_Ava_23_crop.jpg",
+            "school": "Douglas S. Freeman HS",
+            "instagram": {
+                "username": "ava.jung",
+                "bio": "Ava Jung\nsc: ava.jung @cornellwsoccer \u201827",
+                "followers": 2144,
+                "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/363323064_3513436375572032_5039927293286849228_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=HCmnX1DCVRIAX9aYbLs&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA4j8aVDJDI3yKImiS0txgPkO4WZiWxckTXHN3OtHgWgQ&oe=6505E9F9&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Hannah",
+            "last_name": "Grimes",
+            "profile picture": "https://cornellbigred.com/images/2023/8/15/Grimes_Hannah_23_crop.jpg",
+            "school": "Woodinville HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ],
+    "womens-volleyball": [
+        {
+            "first_name": "Brooke",
+            "last_name": "Cooper",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Brooke_Cooper_23_Crop.jpg",
+            "school": "Hinsdale Central HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sarita",
+            "last_name": "Pomar",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Sarita_Pomar_23_Crop.jpg",
+            "school": "Notre Dame HS (Caguas, P.R.)",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Judy",
+            "last_name": "Uyanne",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Judy_Uyanne_23_Crop.jpg",
+            "school": "Saint Joseph HS",
+            "instagram": {
+                "username": "judyuyanne",
+                "bio": "Judy Uyanne\nsocal | cornell vb @foodiejudy360 \ud83c\udded\ud83c\uddf9\ud83c\uddf3\ud83c\uddec",
+                "followers": 1617,
+                "instagram picture": "https://instagram.fsvg2-1.fna.fbcdn.net/v/t51.2885-19/272034029_3139634296251066_549027443162455591_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsvg2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=TLU8eyyhrGYAX-3It_1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBN4wIWpIJlnoiT8xrqDsAkfq2dHvbJgiRsOL9tcpoaOA&oe=6505A93C&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sammie",
+            "last_name": "Engel",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Sammie_Engel_23_Crop.jpg",
+            "school": "Anderson HS",
+            "instagram": {
+                "username": "sammieengel",
+                "bio": "Sammie Engel\n@bigredvb | Cincy OH Be where your feet are\ud83c\udf3b",
+                "followers": 2208,
+                "instagram picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/316379825_425297156484879_8477522948755287732_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nydXnxdrsegAX8yl06H&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCvZqpnupJi2N0VD-rNmmcDZp90ey8ht9HOvJH9eQCFvw&oe=650684A3&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Kate",
+            "last_name": "Stration",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Kate_Stration_23_Crop.jpg",
+            "school": "Stoney Creek HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Doga",
+            "last_name": "Ozalp",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Doga_Ozalp_23_Crop.jpg",
+            "school": "Saint Joseph Private French HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Rylee",
+            "last_name": "Baptiste",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Rylee_Baptiste_23_Crop.jpg",
+            "school": "Westlake HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Alexa",
+            "last_name": "Orent",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Alexa_Orent_23_Crop.jpg",
+            "school": "Dana Hall School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Amrit",
+            "last_name": "Dhaliwal",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Amrit_Dhaliwal_23_Crop.jpg",
+            "school": "Monte Vista HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Nicole",
+            "last_name": "Mallus",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Nicole_Mallus_23_Crop.jpg",
+            "school": "McLean HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jackie",
+            "last_name": "Baker",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Jackie_Baker_23_Crop.jpg",
+            "school": "Palmyra Area Senior HS",
+            "instagram": {
+                "username": "benjamin__blakely",
+                "bio": "Jackie Baker\nCommunications Intern @CornellSports Former Sports Director @891thepoint Play-By-Play for @robertsredhawks",
+                "followers": 303,
+                "instagram picture": "https://instagram.fosu2-2.fna.fbcdn.net/v/t51.2885-19/242040125_1587333864931739_1091002502346302080_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fosu2-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=XH09rsjPyHwAX-aWiRW&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDIX5IWUFA27aSflVU3-HL9rXiwh9Te3OaKpbBJro-KMw&oe=6505FE47&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Eliza",
+            "last_name": "Konvicka",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Eliza_Konvicka_23_Crop.jpg",
+            "school": "Bellaire HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Asa",
+            "last_name": "Moses",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Asa_Moses_23_Crop.jpg",
+            "school": "United Nations International School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Ava",
+            "last_name": "Bogan",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Ava_Bogan_23_Crop.jpg",
+            "school": "Loyola Academy",
+            "instagram": {
+                "username": "avabogan_",
+                "bio": "Ava Bogan\nchicago \u2014> cornell vb \u201827",
+                "followers": 1056,
+                "instagram picture": "https://instagram.ftpa1-1.fna.fbcdn.net/v/t51.2885-19/357192340_1986714628333701_4311608220375713356_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpa1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-wPX_Fzuvb4AX-BZNxI&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBu05s9XMBPtByW6wXI_i6AoWn4jy6oscntKGq6Fy7V9A&oe=65057E17&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Joy",
+            "last_name": "Liu",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Joy_Liu_23_Crop.jpg",
+            "school": "Brecksville Broadview Heights HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Walker",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Jordan_Walker_23_Crop.jpg",
+            "school": "Whitney M. Young Magnet HS",
+            "instagram": {
+                "username": "jordan.walk10",
+                "bio": "Jordan Walker\ncornell volleyball chi | ny",
+                "followers": 2868,
+                "instagram picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/362311372_1511406146336674_3906055022425904249_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=xqL5pkJRgCgAX-tJGDW&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfArq1xV7dKLkvUn31uq28iUxdLXs3XQ0fKUDHEk3Zk1pg&oe=65057C9C&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Camryn",
+            "last_name": "Carlo",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Camryn_Carlo_23_Crop.jpg",
+            "school": "Berkeley Preparatory School",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Sydney",
+            "last_name": "Moore",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Sydney_Moore_23_Crop.jpg",
+            "school": "Cathedral Catholic HS",
+            "instagram": {
+                "username": "ssydney.mmoore",
+                "bio": "Sydney Moore\nmiddle blocker @bigredvb women\u2019s sports advocate @voiceinsportfoundation",
+                "followers": 1981,
+                "instagram picture": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/377270144_257842776598751_6925540180413943852_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_ohc=H1yDTbdcN7cAX8FdzF5&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBwNkHkucS0vKdhzG44p5aoJmIPqurpwU1sL9UJOyd1yw&oe=65056A06&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Meghan",
+            "last_name": "Gaffigan",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Meghan_Gaffigan_23_Crop.jpg",
+            "school": "Chesterton HS",
+            "instagram": {
+                "username": "meghan.gaffigan",
+                "bio": "Meghan Gaffigan\ncornell vb #21",
+                "followers": 1880,
+                "instagram picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/345283355_785009362898271_4552146200748382083_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=QuLAVT7nNu8AX_d57tQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAY8rEM9L_22U6ZKZJiv_cObTGNyUYJMaobpyQx9ao31Q&oe=65073FAA&_nc_sid=8b3546"
+            },
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Megan",
+            "last_name": "Bickel",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Megan_Bickel_23_Crop.jpg",
+            "school": "Bethesda-Chevy Chase HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Jaida",
+            "last_name": "Sione",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Jaida_Sione_23_Crop.jpg",
+            "school": "Sierra Canyon HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        },
+        {
+            "first_name": "Madison",
+            "last_name": "Wood",
+            "profile picture": "https://cornellbigred.com/images/2023/8/28/Madison_Wood_23_Crop.jpg",
+            "school": "Mira Costa HS",
+            "instagram": null,
+            "university": "Cornell University",
+            "city": "Ithaca",
+            "state": "New York"
+        }
+    ]
+}

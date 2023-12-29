@@ -1,0 +1,2536 @@
+{
+    "baseball": [
+        {
+            "first_name": "Brandon",
+            "last_name": "Buday",
+            "profile picture": "https://washubears.com/images/2023/1/31/Brandon_Buday.JPG",
+            "school": "St. Rita",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Jacinto",
+            "profile picture": "https://washubears.com/images/2023/1/31/Chris_Jacinto.JPG",
+            "school": "Bellaire",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Carpinelli",
+            "profile picture": "https://washubears.com/images/2023/1/31/James_Carpinelli.JPG",
+            "school": "Notre Dame College Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Myers",
+            "profile picture": "https://washubears.com/images/2023/1/31/Max_Myers.JPG",
+            "school": "Kearney",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Magnus",
+            "last_name": "Dunn",
+            "profile picture": "https://washubears.com/images/2023/1/31/Magnus_Dunn.JPG",
+            "school": "Mount Hebron",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Zachery",
+            "profile picture": "https://washubears.com/images/2023/1/31/Justin_Zachery.JPG",
+            "school": "Ravenscroft",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Harry",
+            "last_name": "Mauterer",
+            "profile picture": "https://washubears.com/images/2023/1/31/Harry_Mauterer.JPG",
+            "school": "Marin Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Clayton",
+            "last_name": "Miller",
+            "profile picture": "https://washubears.com/images/2023/1/31/Clayton_Miller.JPG",
+            "school": "Stratford",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Gross",
+            "profile picture": "https://washubears.com/images/2023/1/31/Anthony_Gross.JPG",
+            "school": "Catholic Memorial",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Dax",
+            "last_name": "Braemer",
+            "profile picture": "https://washubears.com/images/2023/1/31/Dax_Braemer.JPG",
+            "school": "Ensworth School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Hank",
+            "last_name": "Weiss",
+            "profile picture": "https://washubears.com/images/2023/1/31/Hank_Weiss.JPG",
+            "school": "Chagrin Falls",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Miller",
+            "profile picture": "https://washubears.com/images/2023/1/31/Jack_Miller.JPG",
+            "school": "New Trier",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Holt",
+            "profile picture": "https://washubears.com/images/2023/1/31/Josh_Holt.JPG",
+            "school": "Holland Hall",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Zac",
+            "last_name": "Malis",
+            "profile picture": "https://washubears.com/images/2023/1/31/Zac_Malis.JPG",
+            "school": "Glenbrook South",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Kirkendall",
+            "profile picture": "https://washubears.com/images/2023/1/31/Ryan_Kirkendall.JPG",
+            "school": "Badin HS",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Henkel",
+            "profile picture": "https://washubears.com/images/2023/1/31/Will_Henkel.JPG",
+            "school": "Turpin HS",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Shane",
+            "last_name": "Pellegrino",
+            "profile picture": "https://washubears.com/images/2023/1/31/Shane_Pellegrino.JPG",
+            "school": "Strake Jesuit College Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Coates",
+            "profile picture": "https://washubears.com/images/2022/7/25//kyle_coates_bsb_2021_22.jpg",
+            "school": "Elgin",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Hettinger",
+            "profile picture": "https://washubears.com/images/2023/1/31/Joseph_Hettinger.JPG",
+            "school": "Torrance West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Lindsey",
+            "profile picture": "https://washubears.com/images/2023/1/31/Connor_Lindsey_new.JPG",
+            "school": "O'Fallon Township",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Goldberg",
+            "profile picture": "https://washubears.com/images/2023/1/31/Hunter_Goldberg.JPG",
+            "school": "White Station",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Isaac",
+            "last_name": "Zhang",
+            "profile picture": "https://washubears.com/images/2023/1/31/Isaac_Zhang.JPG",
+            "school": "Groton-Dunstable",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kaden",
+            "last_name": "Bernhard",
+            "profile picture": "https://washubears.com/images/2023/1/31/Kaden_Bernhard.JPG",
+            "school": "International School of Bangkok",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sebastian",
+            "last_name": "Guzman",
+            "profile picture": "https://washubears.com/images/2023/1/31/Sebastian_Guzman.JPG",
+            "school": "Mater Dei",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Miles",
+            "last_name": "Quemuel-Labrador",
+            "profile picture": "https://washubears.com/images/2023/1/31/Miles.JPG",
+            "school": "Maryknoll",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "Georger",
+            "profile picture": "https://washubears.com/images/2023/1/31/Joe_Georger.JPG",
+            "school": "Appleton West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Broghan",
+            "last_name": "O'Connor",
+            "profile picture": "https://washubears.com/images/2023/1/31/Broghan_O_Connor.JPG",
+            "school": "Bishop McNamara",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Braden",
+            "last_name": "Mazone",
+            "profile picture": "https://washubears.com/images/2023/1/31/Braden_Mazone.JPG",
+            "school": "La Costa Canyon HS",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Lopes",
+            "profile picture": "https://washubears.com/images/2023/1/31/Matt_Lopes.JPG",
+            "school": "Benjamin School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Ardemagni",
+            "profile picture": "https://washubears.com/images/2023/1/31/Alex_Ardemagni.JPG",
+            "school": "Cistercian Preparatory",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "mens-basketball": [
+        {
+            "first_name": "Jonathan",
+            "last_name": "Coffy",
+            "profile picture": "https://washubears.com/images/2022/10/14/JC.jpg",
+            "school": "The Hotchkiss School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Van Eekeren",
+            "profile picture": "https://washubears.com/images/2022/10/14/Tyler_VE.jpg",
+            "school": "Benet Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Doyle",
+            "profile picture": "https://washubears.com/images/2022/10/14/Hayden.jpg",
+            "school": "Brookfield East",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Yogi",
+            "last_name": "Oliff",
+            "profile picture": "https://washubears.com/images/2022/10/14/Yogi.jpg",
+            "school": "Niles North",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Bloedorn",
+            "profile picture": "https://washubears.com/images/2022/10/11/Bloedorn.JPG",
+            "school": "Nolensville",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Drake",
+            "last_name": "Kindsvater",
+            "profile picture": "https://washubears.com/images/2022/10/14/Drake.jpg",
+            "school": "Wakeland",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Chidera",
+            "last_name": "Nwokolo",
+            "profile picture": "https://washubears.com/images/2022/10/14/Chidera.jpg",
+            "school": "University School of Jackson",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Wolf",
+            "profile picture": "https://washubears.com/images/2022/10/14/Jake_Wolf.jpg",
+            "school": "Lake Forest Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Beedon",
+            "profile picture": "https://washubears.com/images/2022/10/14/Kyle_Beedon.jpg",
+            "school": "Campbell Hall",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jabari",
+            "last_name": "Chiphe",
+            "profile picture": "https://washubears.com/images/2022/10/11/Jabari.JPG",
+            "school": "Walter Payton College Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "Dillon",
+            "profile picture": "https://washubears.com/images/2022/10/11/Liam.JPG",
+            "school": "Strake Jesuit College Preparatory",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Grudzinski",
+            "profile picture": "https://washubears.com/images/2022/10/11/Will_G.JPG",
+            "school": "Barrington",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Davet",
+            "profile picture": "https://washubears.com/images/2022/10/11/Davet.JPG",
+            "school": "Saint Ignatius",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Calvin",
+            "last_name": "Kapral",
+            "profile picture": "https://washubears.com/images/2022/10/11/Calvin.JPG",
+            "school": "Woodside/Western Reserve Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Jacob",
+            "profile picture": "https://washubears.com/images/2022/10/11/Charlie.JPG",
+            "school": "Totino-Grace",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "football": [
+        {
+            "first_name": "Bernie",
+            "last_name": "Cueto",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_bernie_cueto__0002.jpg",
+            "school": "The King's Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Collin",
+            "last_name": "Goldberg",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_collin_goldberg__0001.jpg",
+            "school": "The Lovett School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ross",
+            "last_name": "Muchnick",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_ross_muchnick__0003.jpg",
+            "school": "Menlo School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Camarata",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jackson_camarata__0002.jpg",
+            "school": "Brophy College Prepatory",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Fernandez",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_alex_fernandez___0003.jpg",
+            "school": "Belen Jesuit Preparatory School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joshua",
+            "last_name": "Asante",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_joshua_asante__0001.jpg",
+            "school": "Downingtown East",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Vartanian",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_chris_vartanian__0002.jpg",
+            "school": "St. Margaret's Episcopal School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Collin",
+            "last_name": "Hoyhtya",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_collin_hoyhtya__0002.jpg",
+            "school": "Mounds View",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Emmanuel",
+            "last_name": "Jenkins",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_emmanuel_jenkins__0001.jpg",
+            "school": "Columbus Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Costello",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jack_costello___0002.jpg",
+            "school": "Hinsdale Central",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Artrell",
+            "last_name": "Miller",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_artrell_miller__0000.jpg",
+            "school": "Cardinal Ritter Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Levi",
+            "last_name": "Moore",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_levi_moore__0000.jpg",
+            "school": "Ensworth",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Grant",
+            "last_name": "Purdy",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_grant_purdy__0001.jpg",
+            "school": "MICDS",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Lassoued",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_alex_lassoued___0001_2.jpg",
+            "school": "Kinkaid",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Gino",
+            "last_name": "Martino",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_gino_martino__0000.jpg",
+            "school": "West Aurora",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Barrett",
+            "last_name": "Glass",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_barrett_glass___0000.jpg",
+            "school": "Houston",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Taidhgin",
+            "last_name": "Trost",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_taighin_trost__0000.jpg",
+            "school": "Prairie Ridge",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Zachary",
+            "last_name": "Ginsburg",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_zachary_ginsburg__0000.jpg",
+            "school": "Redwood",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "McCall",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_max_mccall___0000.jpg",
+            "school": "John Hersey",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Kuceba",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_anthony_kuceba___0002.jpg",
+            "school": "Marmion Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Clark",
+            "last_name": "Stephens",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_clark_stevens__0001.jpg",
+            "school": "Salisbury School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Dotson",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_andrew_dotson___0000.jpg",
+            "school": "Westminster",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Johnston",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_luke_johnston__0000.jpg",
+            "school": "St. Louis University HS",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Dechiro",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_connor_dechiro__0000.jpg",
+            "school": "The Woodlands",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Brett",
+            "last_name": "Kersemeier",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_brett_kersemeier___0003.jpg",
+            "school": "John Hersey",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kenneth",
+            "last_name": "Hamilton",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_kenneth_hamilton__0000.jpg",
+            "school": "Christian Brothers College High School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Grant",
+            "last_name": "Hajicek",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_grant_hajicek__0002.jpg",
+            "school": "Rock Bridge",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Schmadtke",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_ryan_schmadtke___0000.jpg",
+            "school": "Montgomery Bell Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Drew",
+            "last_name": "Bomar",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_drew_bomar__0001.jpg",
+            "school": "Holy Innocents Episcopal School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Salomon",
+            "last_name": "Dessalines",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_salomon_dessalines___0001.jpg",
+            "school": "Sacred Heart-Griffin",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Kemp",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_alex_kemp__0002.jpg",
+            "school": "Calvary Christian",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Micah",
+            "last_name": "Swilley",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_micah_swilley___0003.jpg",
+            "school": "Bradley-Bourbonnais Community",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Rush",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_matt_rush__0000.jpg",
+            "school": "Hinsdale Central",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Snipe",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_spencer_snipe__0004.jpg",
+            "school": "Woodward Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Colin",
+            "last_name": "Donahue",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_colin_donohue__0001.jpg",
+            "school": "Wamego",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Cosmo",
+            "last_name": "Guion",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_cosmo_guoin__0000.jpg",
+            "school": "Minnetonka",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Parker",
+            "last_name": "Monnig",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_parker_monnig___0000.jpg",
+            "school": "Fort Zumwalt North",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Weinstein",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jacob_weinstein__0001.jpg",
+            "school": "St. Mark's School of Texas",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Cal",
+            "last_name": "Newell",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_cal_newell__0000.jpg",
+            "school": "Lincoln Southwest",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Enzo",
+            "last_name": "Rendina",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_enzo_rendina___0002.jpg",
+            "school": "St. Francis",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kellen",
+            "last_name": "Fraile",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_kellen_fraile___0000.jpg",
+            "school": "Bishop McGuinness Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Caiden",
+            "last_name": "Hill",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_caiden_hill__0001.jpg",
+            "school": "Evangelical Christian School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Fred",
+            "last_name": "Ware",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_fred_ware__0001.jpg",
+            "school": "Hebron",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Bradley",
+            "last_name": "Hamilton",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_bradley_hamilton__0000.jpg",
+            "school": "Rockwood Summit",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tyson",
+            "last_name": "Green",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_tyson_green___0002.jpg",
+            "school": "Ravenwood",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Pena",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_carlos_pena___0001.jpg",
+            "school": "Central Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Shawn",
+            "last_name": "Yates",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_shawn_yates__0001.jpg",
+            "school": "Clopton",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Surratt",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jackson_suratt___0001.jpg",
+            "school": "Lees Summit West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Wes",
+            "last_name": "Blabey",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_wes_blabey___0001.jpg",
+            "school": "Community School of Naples",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kenvorris",
+            "last_name": "Campbell",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_kenvorris_campbell__0001.jpg",
+            "school": "Lakeside",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Norris",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_joseph_norris___0000.jpg",
+            "school": "Saint Ignatius - Cleveland",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Grisack",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_andrew_grisack__0000.jpg",
+            "school": "Carrollwood Day School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Schmal",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_matthew_schmal__0000.jpg",
+            "school": "The Westminster Schools",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Titens",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_josh_titens___0002.jpg",
+            "school": "Greenhill School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Xander",
+            "last_name": "Georgoulis",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_xander_georgoulis__0001.jpg",
+            "school": "Sunnyslope",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Keen",
+            "last_name": "Zoller",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_keen_zoller__0000.jpg",
+            "school": "Montgomery Bell Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kyler",
+            "last_name": "King",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_kyler_king___0001.jpg",
+            "school": "Independence",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Henry",
+            "last_name": "Murr",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_henry_murr___0000.jpg",
+            "school": "St. Xavier Louisville",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Maxwell",
+            "last_name": "Mitchell",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_maxwell_mitchell___0001.jpg",
+            "school": "Waterloo",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Brady",
+            "last_name": "Willmer",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_brady_willmer___0002.jpg",
+            "school": "New Albany",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Riley",
+            "last_name": "Merrigan",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_riley_merrigan___0002.jpg",
+            "school": "Scripps Ranch",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joy",
+            "last_name": "Chane",
+            "profile picture": "https://washubears.com/images/2023/8/31/ATHL-10742_230824_joy_chane__0002.jpg",
+            "school": "Mount Pisgah Christian",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Hartman",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_josh_hartman___0004.jpg",
+            "school": "American Heritage School Plantation",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Walker",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_ben_walker___0001.jpg",
+            "school": "Edmond North",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kollin",
+            "last_name": "Kolb",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_kollin_kolb__0002.jpg",
+            "school": "Forsyth",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Kinoshita",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_matthew_kinoshita__0002.jpg",
+            "school": "Pleasant Valley",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Mabry",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_justin_mabrey___0002.jpg",
+            "school": "Palos Verdes",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "Charnot",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_mark_charnot__0000.jpg",
+            "school": "Cardinal Gibbons",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "DJ",
+            "last_name": "Montgomery",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_dj_montgomery___0001.jpg",
+            "school": "De La Salle Institute",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Whalen",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_Alex_Whalen___0001.jpg",
+            "school": "Notre Dame Preparatory",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Draheim",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_max_draheim___0001.jpg",
+            "school": "Maple Grove",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Peters",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_joseph_peters__0000.jpg",
+            "school": "Mount Lebanon",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Elliot",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jacob_elliot__0001.jpg",
+            "school": "Canton",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Lynch",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_peter_lynch__0003.jpg",
+            "school": "Century",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Light",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_nate_light__0001.jpg",
+            "school": "Jonesboro",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Brady",
+            "last_name": "Cavan",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_brady_cavan__0001.jpg",
+            "school": "Glenbard West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Camastro",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_spencer_camastro___0002.jpg",
+            "school": "Marist School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Dietz",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jack_dietz__0002.jpg",
+            "school": "Benilde-St. Margaret",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Zebroski",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_james_zebroski__0000.jpg",
+            "school": "The Bolles School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Cresciullo",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_andrew_crescuillo__0003.jpg",
+            "school": "Garden City",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Brooks",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_tyler_brooks__0002.jpg",
+            "school": "Wakeland",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Brendan",
+            "last_name": "Mayo",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_brendan_mayo___0001.jpg",
+            "school": "Merritt Island",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Seif",
+            "last_name": "Elkhashab",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_seif_elkhashab__0001.jpg",
+            "school": "Windsor",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Dominic",
+            "last_name": "Begora",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_dominic_begora__0000.jpg",
+            "school": "York Community",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Koellner",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_alex_koellner__0001.jpg",
+            "school": "Wylie E. Groves",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Gadomski",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_luke_gadomski__0001.jpg",
+            "school": "Glenbard West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Taylor",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_ryan_taylor__0001.jpg",
+            "school": "Glenbrook South",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Patterson",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_zach_patterson__0002.jpg",
+            "school": "St. Mary Catholic Central",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Bass",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_matthew_bass__0001.jpg",
+            "school": "Chandler",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jadon",
+            "last_name": "Margulies",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jadon_margulies__0002.jpg",
+            "school": "George W. Hewlett",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Gyvnn",
+            "last_name": "Mendenhall",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_gvynn_mendenhall__0001.jpg",
+            "school": "Columbus Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Evan",
+            "last_name": "Rogers",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_evan_rogers__0001.jpg",
+            "school": "Lipscomb Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Makael",
+            "last_name": "Carter",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_makael_carter__0001.jpg",
+            "school": "Mount Pisgah Christian",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Elliot",
+            "last_name": "Chung",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_elliot_chung__0001.jpg",
+            "school": "JSerra Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Gardner",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_will_gardner__0005.jpg",
+            "school": "Skyline",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Allen",
+            "last_name": "Willis",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_allen_willis__0000.jpg",
+            "school": "De Smet Jesuit",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Gabriel",
+            "last_name": "Sirek",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_gabe_sirek__0001.jpg",
+            "school": "Saint Thomas Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tom",
+            "last_name": "Peters",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_tom_peters__0000.jpg",
+            "school": "Mount Lebanon",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nathan",
+            "last_name": "Bluhm",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_nathan_bluhm__0001.jpg",
+            "school": "Chisago Lakes",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Benke",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_john_benke__0001.jpg",
+            "school": "Tuckahoe",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "Mills",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_robert_mills__0000.jpg",
+            "school": "Columbus Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Eli",
+            "last_name": "Shereshovech IV",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_eli_shereshovech___0002.jpg",
+            "school": "Buffalo Grove",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Aron",
+            "last_name": "Jones",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_aron_jones___0001.jpg",
+            "school": "Lincoln County",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Gray",
+            "last_name": "Doster",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_gray_doster___0000.jpg",
+            "school": "Mountain Brook",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Johnathan",
+            "last_name": "Smith",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_jonathan_smith__0001.jpg",
+            "school": "Lincoln",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Houston",
+            "profile picture": "https://washubears.com/images/2023/8/21/Headshots_for_Web_ATHL-10742_230818_tj_houston___0001.jpg",
+            "school": "Francis Howell",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "mens-soccer": [
+        {
+            "first_name": "Connor",
+            "last_name": "O'Brien",
+            "profile picture": null,
+            "school": "Brentwood School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Rabee",
+            "last_name": "Haidari",
+            "profile picture": "https://washubears.com/images/2023/8/22/Rabee_Haidari_2023HS.png",
+            "school": "The Athenian School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Vota",
+            "profile picture": "https://washubears.com/images/2023/8/22/Nate_Vota_2023HS.png",
+            "school": "St. Xavier",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nathan",
+            "last_name": "Szpak",
+            "profile picture": "https://washubears.com/images/2023/8/22/Nathan_Szpak_2023HS.png",
+            "school": "Noble and Greenough",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "Semelsberger",
+            "profile picture": "https://washubears.com/images/2023/8/22/Ethan_Semelsberger_2023HS.png",
+            "school": "Vandergrift",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Landon",
+            "last_name": "Green",
+            "profile picture": "https://washubears.com/images/2023/8/22/Landon_Green_2023HS.png",
+            "school": "La Costa Canyon",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Hipskind",
+            "profile picture": "https://washubears.com/images/2023/8/22/Edited_MSOC_Headshots_Joseph_Hipskind_2023HS.png",
+            "school": "Chaminade College Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Eugene",
+            "last_name": "Heger",
+            "profile picture": "https://washubears.com/images/2023/8/22/Eugene_Heger_2023HS.png",
+            "school": "Bellaire",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Daniels",
+            "profile picture": "https://washubears.com/images/2023/8/22/John_Daniels_2023HS.png",
+            "school": "Lake Country Lutheran",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Susee",
+            "profile picture": "https://washubears.com/images/2023/8/25/Zach_Susee_2023HS.jpg",
+            "school": "Shakopee",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Christopher",
+            "last_name": "Alwang",
+            "profile picture": "https://washubears.com/images/2023/8/22/Christopher_Alwang_2023HS.png",
+            "school": "Weston",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Colin",
+            "last_name": "Link",
+            "profile picture": "https://washubears.com/images/2023/8/22/Colin_LInk_2023HS.jpg",
+            "school": "Copley",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Quentin",
+            "last_name": "Gomez",
+            "profile picture": "https://washubears.com/images/2023/8/22/Quentin_Gomez_2023HS.png",
+            "school": "Palo Verde",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Carl",
+            "last_name": "Vestberg",
+            "profile picture": "https://washubears.com/images/2023/8/22/Carl_Vestberg_2023HS.jpg",
+            "school": "Newark Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Radovich",
+            "profile picture": "https://washubears.com/images/2023/8/22/Peter_Radovich_2023HS.png",
+            "school": "Bellarmine Preparatory School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Reece",
+            "last_name": "Nicholson",
+            "profile picture": "https://washubears.com/images/2023/8/22/Reece_Nicholson_2023HS.png",
+            "school": "Westlake Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nate",
+            "last_name": "Morrison",
+            "profile picture": "https://washubears.com/images/2023/8/22/Nate_Morrison_2023HS.png",
+            "school": "Hillsboro",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Davin",
+            "last_name": "Hickman-Chow",
+            "profile picture": "https://washubears.com/images/2023/8/22/Davin_Hickman_Chow_2023HS.png",
+            "school": "The Woodlands",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Gibson",
+            "profile picture": "https://washubears.com/images/2023/8/22/TJ_Gibson_2023HS.png",
+            "school": "Kent Denver",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Whitehurst",
+            "profile picture": "https://washubears.com/images/2023/8/22/James_Whitehurst_2023HS.png",
+            "school": "Highland Park",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Perez",
+            "profile picture": "https://washubears.com/images/2023/8/22/Trevor_Perez_2023HS.png",
+            "school": "Menlo",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nik",
+            "last_name": "Avillo",
+            "profile picture": "https://washubears.com/images/2023/8/22/Nik_Avillo_2023HS.png",
+            "school": "Walter Johnson",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Carter",
+            "last_name": "Sasser",
+            "profile picture": "https://washubears.com/images/2023/8/22/Carter_Sasser_2023HS.png",
+            "school": "Bellaire",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Owen",
+            "last_name": "Ross",
+            "profile picture": "https://washubears.com/images/2023/8/22/Owen_Ross_2023HS.png",
+            "school": "Pace Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Mallalieu",
+            "profile picture": "https://washubears.com/images/2023/8/22/Adam_Mallalieu_2023HS.png",
+            "school": "St. Andrew's College",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "Wirtschafter",
+            "profile picture": "https://washubears.com/images/2023/8/22/Ethan_Wirtschafter_2023HS.png",
+            "school": "Donna Klein Jewish Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Cal",
+            "last_name": "L'Hommedieu",
+            "profile picture": "https://washubears.com/images/2023/8/22/Cal_L_Hommedieu_2023HS.png",
+            "school": "Saint Louis Priory School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Cooney",
+            "profile picture": "https://washubears.com/images/2023/8/22/Noah_Cooney_2023HS.png",
+            "school": "The Westminster Schools",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Rolando",
+            "profile picture": "https://washubears.com/images/2023/8/22/Anthony_Rolando_2023HS.png",
+            "school": "Marquette",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Owen",
+            "last_name": "Culver",
+            "profile picture": "https://washubears.com/images/2023/8/22/Owen_Culver_2023HS.png",
+            "school": "Webster Groves",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "Oiknine",
+            "profile picture": "https://washubears.com/images/2023/8/22/Liam_Oiknine_2023HS.png",
+            "school": "Ladue Horton Watkins",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "womens-basketball": [
+        {
+            "first_name": "Sabrina",
+            "last_name": "DelBello",
+            "profile picture": "https://washubears.com/images/2022/10/31/Sabrina_DelBello.JPG",
+            "school": "Cincinnati Country Day",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alyssa",
+            "last_name": "Hughes",
+            "profile picture": null,
+            "school": "St. Charles North",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Christina",
+            "last_name": "Walker",
+            "profile picture": "https://washubears.com/images/2022/10/31/Christina_Walker.JPG",
+            "school": "The Paideia School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Katie",
+            "last_name": "Minkler",
+            "profile picture": "https://washubears.com/images/2022/10/31/Katie_Minkler.JPG",
+            "school": "Ladue Horton Watkins",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Catherine",
+            "last_name": "Goodwin",
+            "profile picture": null,
+            "school": "Saint Thomas Aquinas",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sidney",
+            "last_name": "Rogers",
+            "profile picture": null,
+            "school": "Glenbrook South",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Rich",
+            "profile picture": "https://washubears.com/images/2022/10/31/Jordan_Rich.JPG",
+            "school": "Oletangy Liberty",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Amelia",
+            "last_name": "Rosin",
+            "profile picture": null,
+            "school": "Monarch",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sydney",
+            "last_name": "Starks",
+            "profile picture": null,
+            "school": "John Burroughs",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Liv",
+            "last_name": "Muse",
+            "profile picture": "https://washubears.com/images/2022/10/31/Olivia_Muse.JPG",
+            "school": "Vestal Senior",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jessica",
+            "last_name": "Brooks",
+            "profile picture": "https://washubears.com/images/2022/10/31/Jessica_Brooks.JPG",
+            "school": "Mary Institute and St. Louis Country Day School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Lexy",
+            "last_name": "Harris",
+            "profile picture": null,
+            "school": "Walton",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Brenna",
+            "last_name": "Loftus",
+            "profile picture": "https://washubears.com/images/2022/10/31/Brenna_Loftus.JPG",
+            "school": "Riverside Brookfield",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nailah",
+            "last_name": "McBeth",
+            "profile picture": "https://washubears.com/images/2022/10/31/Nailah_McBeth.JPG",
+            "school": "Georgetown Visitation Preparatory School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "womens-soccer": [
+        {
+            "first_name": "Charlotte",
+            "last_name": "Shapiro",
+            "profile picture": "https://washubears.com/images/2023/8/28/Charlotte_Shapiro.jpg",
+            "school": "Walt Whitman",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sophie",
+            "last_name": "Viscovich",
+            "profile picture": "https://washubears.com/images/2023/8/28/Sophie_Viscovich.jpg",
+            "school": "Bishop O'Connell",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Allie",
+            "last_name": "Goulding",
+            "profile picture": "https://washubears.com/images/2023/8/28/Allie_Goulding.jpg",
+            "school": "Cardinal Gibbons",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jessica",
+            "last_name": "Greven",
+            "profile picture": "https://washubears.com/images/2023/8/28/Jess_Greven.jpg",
+            "school": "Carmel",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kerrigan",
+            "last_name": "Ferland",
+            "profile picture": "https://washubears.com/images/2023/8/28/ATHL-10742_230824_kerrigan_ferland_0002.jpg",
+            "school": "Flower Mound",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Nicole",
+            "last_name": "Schmidt",
+            "profile picture": "https://washubears.com/images/2023/8/28/Nicole_Schmidt.jpg",
+            "school": "Adlai E. Stevenson",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Hailee",
+            "last_name": "Fritsche",
+            "profile picture": "https://washubears.com/images/2023/8/28/Hailee_Fritsche.jpg",
+            "school": "Visitation Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anna",
+            "last_name": "Viscovich",
+            "profile picture": "https://washubears.com/images/2023/8/28/Anna_Viscovich.jpg",
+            "school": "James Madison",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Wilson",
+            "profile picture": "https://washubears.com/images/2023/8/28/Tyler_Wilson.jpg",
+            "school": "Middleton",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Olivia",
+            "last_name": "Foster",
+            "profile picture": "https://washubears.com/images/2023/8/28/Olivia_Foster.jpg",
+            "school": "Lees Summit West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ella",
+            "last_name": "Koleno",
+            "profile picture": "https://washubears.com/images/2023/8/28/Ella_Koleno.jpg",
+            "school": "Whitney Young",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Olivia",
+            "last_name": "Richards",
+            "profile picture": "https://washubears.com/images/2023/8/28/Olivia_Richards.jpg",
+            "school": "Hempfield",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Marilee",
+            "last_name": "Karinshak",
+            "profile picture": "https://washubears.com/images/2023/8/28/Marilee_Karinshak.jpg",
+            "school": "Greater Atlanta Christian School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Gaelen",
+            "last_name": "Clayton",
+            "profile picture": "https://washubears.com/images/2023/8/28/Gaelen_Clayton.jpg",
+            "school": "The Nueva School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Madeline",
+            "last_name": "Allburn",
+            "profile picture": "https://washubears.com/images/2023/8/28/Madeline_Allburn.jpg",
+            "school": "Jamestown",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sara",
+            "last_name": "Giannotti",
+            "profile picture": "https://washubears.com/images/2023/8/28/ATHL-10742_230824_sara_giannotti_0002.jpg",
+            "school": "Magnolia",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kate",
+            "last_name": "Flynn",
+            "profile picture": "https://washubears.com/images/2023/8/28/Kate_Flynn.jpg",
+            "school": "Benet Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anna",
+            "last_name": "Rosato",
+            "profile picture": "https://washubears.com/images/2023/8/28/Anna_Rosato.jpg",
+            "school": "John Adams",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sophia",
+            "last_name": "Raudez",
+            "profile picture": "https://washubears.com/images/2023/8/28/Sophia_Raudez.jpg",
+            "school": "Blue Valley West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sarah",
+            "last_name": "Neltner",
+            "profile picture": "https://washubears.com/images/2023/8/28/Sarah_Neltner.jpg",
+            "school": "Columbus Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Kaci",
+            "last_name": "Karl",
+            "profile picture": "https://washubears.com/images/2023/8/28/Kaci_Karl.jpg",
+            "school": "Kent Denver",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Emma",
+            "last_name": "Riley McGahan",
+            "profile picture": "https://washubears.com/images/2023/8/28/Emma_Riley_McGahan.jpg",
+            "school": "The Westminster Schools",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Meryl",
+            "last_name": "McKenna",
+            "profile picture": "https://washubears.com/images/2023/8/28/Meryl_McKenna.jpg",
+            "school": "Immaculate",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alexandra",
+            "last_name": "Karolak",
+            "profile picture": "https://washubears.com/images/2023/8/28/Alex_Karolak.jpg",
+            "school": "University Liggett School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jadyn",
+            "last_name": "Aling",
+            "profile picture": "https://washubears.com/images/2023/8/28/Jadyn_Aling.jpg",
+            "school": "Latin School of Chicago",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Julia",
+            "last_name": "Moore",
+            "profile picture": "https://washubears.com/images/2023/8/28/Julia_Moore.jpg",
+            "school": "Dowling Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alexandra",
+            "last_name": "Weinmeister",
+            "profile picture": "https://washubears.com/images/2023/8/28/ATHL-10742_230824_alexandra_weinmeister_0004.jpg",
+            "school": "The Hockaday School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Grace",
+            "last_name": "Ehlert",
+            "profile picture": "https://washubears.com/images/2023/8/28/Grace_Ehlert.jpg",
+            "school": "Loyola Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Ally",
+            "last_name": "Hackett",
+            "profile picture": "https://washubears.com/images/2023/8/28/Ally_Hackett.jpg",
+            "school": "Charlotte Catholic",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Madison",
+            "last_name": "Foley",
+            "profile picture": "https://washubears.com/images/2023/8/28/Madison_Foley.jpg",
+            "school": "Edgewood High School of the Sacred Heart",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Regan",
+            "last_name": "Cannon",
+            "profile picture": "https://washubears.com/images/2023/8/28/Regan_Cannon.jpg",
+            "school": "Blue Valley Southwest",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sidney",
+            "last_name": "Conner",
+            "profile picture": "https://washubears.com/images/2023/8/28/Sid_Conner.jpg",
+            "school": "Dwight-Englewood School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "McKibben",
+            "profile picture": "https://washubears.com/images/2023/8/28/Sam_McKibbon.jpg",
+            "school": "Maine South",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ],
+    "womens-volleyball": [
+        {
+            "first_name": "Ellie",
+            "last_name": "Laird",
+            "profile picture": "https://washubears.com/images/2023/8/28/ellie_laird_2023HS.png",
+            "school": "Woodrow Wilson",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "McKenzie",
+            "last_name": "Washington",
+            "profile picture": "https://washubears.com/images/2023/8/28/mckenzie_washington_2023HS.png",
+            "school": "Saint Ignatius College Prep",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Mallory",
+            "last_name": "Dills",
+            "profile picture": "https://washubears.com/images/2023/8/28/mallory_dills_2023HS.png",
+            "school": "Cathedral",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Alden",
+            "last_name": "Standley",
+            "profile picture": "https://washubears.com/images/2023/8/28/alden_standley_2023HS.png",
+            "school": "Sacred Heart Cathedral",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Eliana",
+            "last_name": "Ross",
+            "profile picture": "https://washubears.com/images/2023/8/28/eliana_ross_2023HS.png",
+            "school": "Middleton",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Paris",
+            "last_name": "Nix",
+            "profile picture": "https://washubears.com/images/2023/8/28/paris_nix_2023HS.png",
+            "school": "Liberal Arts and Science Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Tori",
+            "last_name": "Taylor",
+            "profile picture": "https://washubears.com/images/2023/8/28/tori_taylor_2023HS.png",
+            "school": "Rochester",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anna",
+            "last_name": "Freeman",
+            "profile picture": "https://washubears.com/images/2023/8/28/anna_freeman_2023HS.png",
+            "school": "Revere High School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Sandberg",
+            "profile picture": "https://washubears.com/images/2023/8/28/jordan_sandberg_2023HS.png",
+            "school": "Webb School of Knoxville",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Leah",
+            "last_name": "Oyewole",
+            "profile picture": "https://washubears.com/images/2023/8/28/leah_oyewole_2023HS.png",
+            "school": "Bishop Lynch",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Elise",
+            "last_name": "Gilroy",
+            "profile picture": "https://washubears.com/images/2023/8/28/elise_gilroy_2023HS.png",
+            "school": "Millard West",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Anaia",
+            "last_name": "Montaque-Harrison",
+            "profile picture": "https://washubears.com/images/2023/8/28/amh_2023HS.png",
+            "school": "Grimsley",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Jasmine",
+            "last_name": "Sells",
+            "profile picture": "https://washubears.com/images/2023/8/28/jasmine_sells_2023HS.png",
+            "school": "Lincoln",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Lucy",
+            "last_name": "Davis",
+            "profile picture": "https://washubears.com/images/2023/8/28/lucy_davis_2023HS.png",
+            "school": "Pacific Ridge School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Megan",
+            "last_name": "Manaj",
+            "profile picture": "https://washubears.com/images/2023/8/28/mm_2023HS.png",
+            "school": "Lindbergh",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Zoe",
+            "last_name": "Foster",
+            "profile picture": "https://washubears.com/images/2023/8/28/zoe_foster_2023HS.png",
+            "school": "Albuquerque Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Buckley",
+            "profile picture": "https://washubears.com/images/2023/8/28/sam_buckley_2023HS.jpg",
+            "school": "Benet Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Laura",
+            "last_name": "Brambilla",
+            "profile picture": "https://washubears.com/images/2023/8/28/laura_brambilla_2023HS.jpg",
+            "school": "Carroll Senior",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Lily",
+            "last_name": "Steinbach",
+            "profile picture": "https://washubears.com/images/2023/8/28/liky_steinbach_2023HS.jpg",
+            "school": "University School of Milwaukee",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Eva",
+            "last_name": "Boling",
+            "profile picture": "https://washubears.com/images/2023/8/28/eva_boling_2023HS.jpg",
+            "school": "Glenda Dawson High School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Clair",
+            "last_name": "Redmon",
+            "profile picture": "https://washubears.com/images/2023/8/28/clair_redmon_2023HS.jpg",
+            "school": "Mansfield Lake Ridge",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Naya",
+            "last_name": "Ohuabunwa",
+            "profile picture": "https://washubears.com/images/2023/8/28/naya_ohuabunwa_2023HS.jpg",
+            "school": "Greater Atlanta Christian School",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        },
+        {
+            "first_name": "Aaliyaa",
+            "last_name": "Genat",
+            "profile picture": "https://washubears.com/images/2023/8/28/aaliyaa_genat_2023HS.png",
+            "school": "Out of Door Academy",
+            "instagram": null,
+            "university": "Washington University in St Louis",
+            "city": "St. Louis",
+            "state": "Missouri"
+        }
+    ]
+}

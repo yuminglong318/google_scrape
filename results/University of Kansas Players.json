@@ -1,0 +1,2294 @@
+{
+    "baseball": [
+        {
+            "first_name": "Mike",
+            "last_name": "Koszewski",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Koszewski_Mike_150.jpg",
+            "school": "Montini Catholic",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cooper",
+            "last_name": "Kelly",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Kelly_Cooper_84.jpg",
+            "school": "Blue Valley Southwest",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Gerety",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Geraty_Tyler_95.jpg",
+            "school": "Nemaha Central",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Brooks",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Brooks_Michael_30.jpg",
+            "school": "Palm Beach Central",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Collier",
+            "last_name": "Cranford",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Cranford_Collier_138.jpg",
+            "school": "Zachary",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Cobb",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Cobb_Jackson_79.jpg",
+            "school": "Pleasant Grove",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Leto",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Leto_Luke_47.jpg",
+            "school": "Portage Central",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Janson",
+            "last_name": "Reeder",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Reeder_Janson_128.jpg",
+            "school": "Edmond North",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Zac",
+            "last_name": "Cox",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Cox_Zac_118.jpg",
+            "school": "Manhattan",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Thaniel",
+            "last_name": "Trumper",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Trumper_Thaniel_71.jpg",
+            "school": "Fossil Ridge",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "JJ",
+            "last_name": "Tylicki",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Tylicki_JJ_161.jpg",
+            "school": "St. James Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mitchell",
+            "last_name": "Birdsall",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Birdsall_Mitchell_103.jpg",
+            "school": "Valley Christian",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kodey",
+            "last_name": "Shojinaga",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Shojinaga_Kodey_115.jpg",
+            "school": "Mid-Pacific Institute",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Cashero",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Cashero_Hunter_167.jpg",
+            "school": "St. James Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "English",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/English_Jake_178.jpg",
+            "school": "Olathe South",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Elvis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Elvis_Cole_164.jpg",
+            "school": "Vacaville",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Kline",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Kline_Jackson_155.jpg",
+            "school": "Park Hill",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Baker",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Baker_Jake_20.jpg",
+            "school": "Free State",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Parker",
+            "last_name": "Grant",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Grant_Parker_172.jpg",
+            "school": "Maryknoll",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Cranton",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Cranton_Hunter_41.jpg",
+            "school": "JSerra Catholic",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Hunt",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Hunt_Sam_65.jpg",
+            "school": "Marcus",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kolby",
+            "last_name": "Dougan",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Dougan_Kolby_111.jpg",
+            "school": "Seaman",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "Bradford",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Bradford_Ethan_74.jpg",
+            "school": "Free State",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Toby",
+            "last_name": "Haarer",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Haarer_Toby_68.jpg",
+            "school": "Desert Mountain",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Stone",
+            "last_name": "Hewlett",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Hewlett_Stone_174.jpg",
+            "school": "Rockhurst",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Dennis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Dennis_Andrew_169.jpg",
+            "school": "Blue Valley",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Andrews",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Andrews_Steven_89.jpg",
+            "school": "American Heritage",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Chase",
+            "last_name": "Jans",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Jans_Chase_25.jpg",
+            "school": "Blue Valley",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Ireland",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Ireland_Sam_143.jpg",
+            "school": "Mountain Vista",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Gavin",
+            "last_name": "Brasosky",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Brasosky_Gavin_50.jpg",
+            "school": "Portage Central",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Collin",
+            "last_name": "Baumgartner",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Baumgartner_Collin_148.jpg",
+            "school": "Southwestern Piasa",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Karter",
+            "last_name": "Muck",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Muck_Karter_106.jpg",
+            "school": "St. Pius X",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Metzker",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Metzker_Luke_123.jpg",
+            "school": "Bishop Manogue Catholic",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Stone",
+            "last_name": "Evers",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Evers_Stone_53.jpg",
+            "school": "Oak Mountain",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Brady",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/12/Brady_Sam_38.jpg",
+            "school": "Rockhurst",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ],
+    "mbball": [
+        {
+            "first_name": "Hunter",
+            "last_name": "Dickinson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Dickinson_Hunter_2023.jpg",
+            "school": "DeMatha Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Arterio",
+            "last_name": "Morris",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Morris_Arterio_2023.jpg",
+            "school": "Kimball HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dajuan",
+            "last_name": "Harris Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/09/Harris_Dajuan_2023.jpg",
+            "school": "Rock Bridge HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Cross",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Cross_Justin_2023.jpg",
+            "school": "Oak Park River Forest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Carter",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Carter_Chris_3007.jpg",
+            "school": "Shadow Hills HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Johnny",
+            "last_name": "Furphy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Furphy_Johnny.jpg",
+            "school": "Centre of Excellence",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jamari",
+            "last_name": "McDowell",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/McDowell_Jamari_2023.jpg",
+            "school": "Manvel HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Wilder",
+            "last_name": "Evers",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Evers_Wilder_2023.jpg",
+            "school": "Oak Mountain HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Elmarko",
+            "last_name": "Jackson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Jackson_Elmarko_2023.jpg",
+            "school": "South Kent School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "Cassidy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Cassidy_Patrick_2023.jpg",
+            "school": "Columbus Unified HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "McCullar Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/07/McCullar_Kevin_2023.jpg",
+            "school": "Wagner HS / Texas Tech",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Jankovich",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Jankovich_Michael_2023.jpg",
+            "school": "Northfield Mount Hermon [Mass.]",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dillon",
+            "last_name": "Wilhite",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Wilhite_Dillon_2023.jpg",
+            "school": "Cathedral Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Parker",
+            "last_name": "Braun",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Braun_Parker_2023.jpg",
+            "school": "Blue Valley Northwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "KJ",
+            "last_name": "Adams Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Adams_KJ_2023.jpg",
+            "school": "Westlake HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "Timberlake",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/06/Timberlake_Nicolas_2023.jpg",
+            "school": "Kimball Union Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Clemence",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Clemence_Zach_2023.jpg",
+            "school": "Sunrise Christian Academy [Kan.]",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "McCarthy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/McCarthy_Charlie_2023.jpg",
+            "school": "Shadow Hills HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ],
+    "football": [
+        {
+            "first_name": "Quentin",
+            "last_name": "Skinner",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Skinner_Quentin_158.jpg",
+            "school": "Claremore HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kenny",
+            "last_name": "Logan Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Logan_Kenny_2627_1.jpg",
+            "school": "Menendez HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cobee",
+            "last_name": "Bryant",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Bryant_Cobee_388.jpg",
+            "school": "Hillcrest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Lawrence",
+            "last_name": "Arnold",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Arnold_Lawrence_259.jpg",
+            "school": "DeSoto HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mello",
+            "last_name": "Dotson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Dotson_Mello_371.jpg",
+            "school": "Mainland HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tanaka",
+            "last_name": "Scott",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Scott_Tanaka_441.jpg",
+            "school": "Murphy HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Marvin",
+            "last_name": "Grant",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Grant_Marvin_204.jpg",
+            "school": "Martin Luther King",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Devin",
+            "last_name": "Neal",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Neal_Devin_2628_1.jpg",
+            "school": "Lawrence HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Doug",
+            "last_name": "Emilien",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Emilien_Doug_128.jpg",
+            "school": "American Heritage",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "O.J.",
+            "last_name": "Burroughs",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Burroughs_OJ_376.jpg",
+            "school": "IMG Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Taiwan",
+            "last_name": "Berryhill Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Berryhill_Taiwan_385.jpg",
+            "school": "St. Augustine HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jalon",
+            "last_name": "Daniels",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Daniels_Jalon_161.jpg",
+            "school": "Lawndale HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Wilson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Wilson_Trevor_447.jpg",
+            "school": "Amos P. Godby HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Gage",
+            "last_name": "Keys",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Keys_Gage_133.jpg",
+            "school": "Hilliard Davidson HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kwinton",
+            "last_name": "Lassiter",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Lassiter_Kwinton_378.jpg",
+            "school": "Free State HS (Kan.)",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jason",
+            "last_name": "Bean",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Bean_Jason_443.jpg",
+            "school": "Lake Ridge HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Booker",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Booker_Austin_136.jpg",
+            "school": "Center Grove HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jayson",
+            "last_name": "Gilliom",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Gilliom_Jayson_2624_1.jpg",
+            "school": "North Gwinnett HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Grimm",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Grimm_Luke_35.jpg",
+            "school": "Raymore-Peculiar HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Torry",
+            "last_name": "Locklin",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Locklin_Torry_73.jpg",
+            "school": "Rockdale HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Keaton",
+            "last_name": "Kubecka",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Kubecka_Keaton_309.jpg",
+            "school": "Westlake HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Brooks",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "Handley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mikey",
+            "last_name": "Pauley",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Pauley_Mikey_2625_1.jpg",
+            "school": "Blue Valley Northwest",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jalen",
+            "last_name": "Dye",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Dye_Jalen_390.jpg",
+            "school": "Cathedral Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Ballard",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Ballard_Cole_13.jpg",
+            "school": "Westfield HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Craig",
+            "last_name": "Young",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Young_Craig_151.jpg",
+            "school": "Wayne HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Brantley",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Brantley_Logan_40.jpg",
+            "school": "Cherry Creek HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Easters",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Easters_Ben_339.jpg",
+            "school": "Brownsburg HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jaden",
+            "last_name": "Hamm",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Hamm_Jaden_359.jpg",
+            "school": "Eudora HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Akili",
+            "last_name": "Hubbard",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "Bellflower HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Jackson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Jackson_Jack_312.jpg",
+            "school": "Highland Park High School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kalon",
+            "last_name": "Gervin",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Gervin_Kalon_366.jpg",
+            "school": "Cass Technical HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tristian",
+            "last_name": "Fletcher",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Fletcher_Tristian_225.jpg",
+            "school": "Cy Ridge HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Crews IV",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Crews_TJ_63.jpg",
+            "school": "Christ Prep Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Hishaw Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Hishaw_Daniel_445.jpg",
+            "school": "Moore HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Donovan",
+            "last_name": "Gaines",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Gaines_Donovan_428.jpg",
+            "school": "Southmoore HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Brian",
+            "last_name": "Dilworth",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Dilworth_DJ_405.jpg",
+            "school": "Chaminade-Madonna Prep",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Ellis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Ellis_Mason_147.jpg",
+            "school": "Mulvane HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Damarius",
+            "last_name": "McGhee",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/McGhee_Damarius393.jpg",
+            "school": "Pensacola Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Reis",
+            "last_name": "Vernon",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Vernon_Reis_220.jpg",
+            "school": "Bixby HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kaleb",
+            "last_name": "Purdy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Purdy_Kaleb_436.jpg",
+            "school": "DeSmet Jesuit HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "McDuffie",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/McDuffie_Dylan_249.jpg",
+            "school": "Sweet Home HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Krishawn",
+            "last_name": "Brown",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Brown_Krishawn_240.jpg",
+            "school": "Booker T. Washington HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Johnny",
+            "last_name": "Thompson Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Thompson_Johnny_52.jpg",
+            "school": "Oaks Christian School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Taylor",
+            "last_name": "Davis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Davis_Taylor_316.jpg",
+            "school": "Ridge Point HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "JB",
+            "last_name": "Brown",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Brown_JB_423.jpg",
+            "school": "Har-Ber HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Sevion",
+            "last_name": "Morrison",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Morrison_Sevion_363.jpg",
+            "school": "Edison HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jameel",
+            "last_name": "Croft Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "Martin Luther King HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Reece",
+            "last_name": "Thomas",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Thomas_Reece_89.jpg",
+            "school": "Lansing HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Rich",
+            "last_name": "Miller",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Miller_Rich_1_1.jpg",
+            "school": "Martin Luther King HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Carson",
+            "last_name": "Morgan",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Morgan_Carson_188.jpg",
+            "school": "Bentonville West HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Landon",
+            "last_name": "Nelson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Nelson_Landon_342.jpg",
+            "school": "Valley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Downing",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Downing_Dylan_29.jpg",
+            "school": "Bishop Miege HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Owen",
+            "last_name": "Piepergerdes",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Piepergerdes_Owen_05.jpg",
+            "school": "Rockhurst HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Raich",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Raich_Alex_449.jpg",
+            "school": "Quader Schulhaus",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Billy",
+            "last_name": "Conaway",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Conaway_Billy_421.jpg",
+            "school": "Shawnee Mission North",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tony",
+            "last_name": "Terry",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Terry_Tony_348.jpg",
+            "school": "Jackson HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Isaiah",
+            "last_name": "Coppage",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Coppage_Isaiah_1_1.jpg",
+            "school": "Bishop Miege HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "Joyner Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Joyner_Patrick_257.jpg",
+            "school": "South Dade HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Grayden",
+            "last_name": "Addison",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Addison_Grayden_108.jpg",
+            "school": "Noblesville HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Hatcher",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Hatcher_Hayden_69.jpg",
+            "school": "Lewis Central HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Schneider",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Schneider_Jack_235.jpg",
+            "school": "Blue Valley West HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Mondi",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Mondi_Cole_207.jpg",
+            "school": "Lawrence HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tabor",
+            "last_name": "Allen",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Allen_Tabor_212.jpg",
+            "school": "Mansfield Lakeridge HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Devin",
+            "last_name": "Phillips",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Phillips_Devin_345.jpg",
+            "school": "Neville HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ezra",
+            "last_name": "Vedral",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Vedral_Ezra_292.jpg",
+            "school": "Creighton Prep HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Luke",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Luke_Hunter_324.jpg",
+            "school": "Westlake HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Russell",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Russell_Andrew_123.jpg",
+            "school": "Victor HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cornell",
+            "last_name": "Wheeler",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Wheeler_Cornell_141.jpg",
+            "school": "West Bloomfield",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Kardell",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Kardell_Trevor_83.jpg",
+            "school": "Lee's Summit West HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dean",
+            "last_name": "Miller",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Miller_Dean_298.jpg",
+            "school": "Cathedral HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Davion",
+            "last_name": "Westmoreland",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Westmoreland_Davion_399.jpg",
+            "school": "Griffin HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dillon",
+            "last_name": "Mong",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Mong_Dillon_289.jpg",
+            "school": "Shawnee Mission East HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jared",
+            "last_name": "Casey",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Casey_Jared_60.jpg",
+            "school": "Plainville HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jacoby",
+            "last_name": "Davis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "North Shore Senior HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mike",
+            "last_name": "Novitsky",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Novitsky_Mike_130.jpg",
+            "school": "Victor HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Emory",
+            "last_name": "Duggar",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Duggar_Emory_112.jpg",
+            "school": "Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Brown",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Brown_Logan_412.jpg",
+            "school": "East Kentwood HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "D.J.",
+            "last_name": "Withers",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Withers_DJ_178.jpg",
+            "school": "Joe T. Robinson HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Caleb",
+            "last_name": "Taylor",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Taylor_Caleb_329.jpg",
+            "school": "Staley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Ford Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Ford_Mike_100.jpg",
+            "school": "Homewood-Flossmoor HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ar'maj",
+            "last_name": "Reed-Adams",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Reed-Adams_Armaj_255.jpg",
+            "school": "DeSoto HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Marcus",
+            "last_name": "Calvin",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Calvin_Marcus_268.jpg",
+            "school": "Gibbs HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hank",
+            "last_name": "Kelly",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Kelly_Hank_431.jpg",
+            "school": "Fayetteville HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kael",
+            "last_name": "Farkes",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Farkes_Kael_113.jpg",
+            "school": "Shawnee Mission Northwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jaydon",
+            "last_name": "Brittingham",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Brittingham_Jaydon_192.jpg",
+            "school": "Lawrence HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Gorczyca",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Gorczyca_Nolan_34.jpg",
+            "school": "Roncalli Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Hosford",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Hosford_Luke_102.jpg",
+            "school": "Woodridge HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Eisenhauer",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Eisenhauer_Jake_326.jpg",
+            "school": "Salina Central HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dominick",
+            "last_name": "Puni",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Puni_Dominick_24.jpg",
+            "school": "Francis Howell Central HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kobe",
+            "last_name": "Baynes",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Baynes_Kobe_456.jpg",
+            "school": "Sandalwood HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Livingston",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Livingston_James_119.jpg",
+            "school": "Dexter HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Grady",
+            "last_name": "Seyfert",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Seyfert_Grady_181.jpg",
+            "school": "Beloit HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Robinson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Robinson_Danny_411.jpg",
+            "school": "Blue Valley Northwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Dre",
+            "last_name": "Doiron",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Doiron_Dre_98.jpg",
+            "school": "Catholic Central",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "De'Kedrick",
+            "last_name": "Sterns",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Sterns_DK_333.jpg",
+            "school": "Del Valle HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Calvin",
+            "last_name": "Clements",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Clements_Calvin_185.jpg",
+            "school": "Lawrence Free State HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Lovell",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Lovell_Spencer_07.jpg",
+            "school": "Rocky Mountain HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Bryce",
+            "last_name": "Cabeldue",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Cabeldue_Bryce_86.jpg",
+            "school": "Clovis HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mack",
+            "last_name": "Moeller",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Moeller_Mack_92.jpg",
+            "school": "Bishop Miege HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Quinton",
+            "last_name": "Conley",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Conley_Quinton_47.jpg",
+            "school": "Pembrooke Hill School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Isreal",
+            "last_name": "Moses",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Moses_Isreal_200.jpg",
+            "school": "De La Salle HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Griffin",
+            "last_name": "Koch",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/08/Koch_Griffin_1724.jpg",
+            "school": "IMG Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jarred",
+            "last_name": "Sample",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Sample_Jarred_283.jpg",
+            "school": "Cypress Ranch HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Surahz",
+            "last_name": "Buncom",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Buncom_Surahz_281.jpg",
+            "school": "Mater Dei Catholic",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Huggins",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Huggins_Will_278.jpg",
+            "school": "Shawnee Mission South HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tevita",
+            "last_name": "Ahoafi-Noa",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Noa_Tevita_243.jpg",
+            "school": "Highland HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Fairchild",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Fairchild_Mason_55.jpg",
+            "school": "Andale HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jereme",
+            "last_name": "Robinson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Robinson_Jereme_66.jpg",
+            "school": "Carver HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Seth",
+            "last_name": "Keller",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Keller_Seth_95.jpg",
+            "school": "Covenant Christian HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Tommy",
+            "last_name": "Dunn Jr.",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Dunn_Tommy_170.jpg",
+            "school": "Naaman Forest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Weinrich",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Weinrich_Charlie_231.jpg",
+            "school": "Blue Valley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Blake",
+            "last_name": "Herold",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Herold_Blake_318.jpg",
+            "school": "Shenandoah HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Damon",
+            "last_name": "Greaves",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Greaves_Damon_237.jpg",
+            "school": "",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Petrus",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Petrus_Cole_173.jpg",
+            "school": "Vianney HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kenean",
+            "last_name": "Caldwell",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/07/Caldwell_Kenean_246.jpg",
+            "school": "Oak Grove HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Lance",
+            "last_name": "Bassett",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Bassett_Lance_2626_1.jpg",
+            "school": "Lawrence HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ronald",
+            "last_name": "McGee",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/07/McGee_Ron_223.jpg",
+            "school": "Sumter HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ],
+    "wbball": [
+        {
+            "first_name": "Wyvette",
+            "last_name": "Mayberry",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/06/Mayberry_Wyvette_2-scaled.jpg",
+            "school": "Booker T. Washington / Tulsa",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Taiyanna",
+            "last_name": "Jackson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2021/06/Jackson_Taiyanna_1-scaled.jpg",
+            "school": "East Chicago Central HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Cobbins",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Ryan-web.jpg",
+            "school": "Piper HS / Alabama",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Laia",
+            "last_name": "Conesa",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Conesa_Laia_2220.jpg",
+            "school": "IES Joaquim Blume",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Paris",
+            "last_name": "Gaines",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Gaines_Paris_2215.jpg",
+            "school": "Jones HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "S'Mya",
+            "last_name": "Nichols",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Nichols_SMya_2212.jpg",
+            "school": "Shawnee Mission West HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Holly",
+            "last_name": "Kersgieter",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/07/Kersgieter_Holly_1-scaled.jpg",
+            "school": "Charles Page HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Danai",
+            "last_name": "Papadopoulou",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2021/04/Papadopoulou_Danai_1-scaled.jpg",
+            "school": "Mandoulides High school",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Zakiyah",
+            "last_name": "Franklin",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/07/Franklin_Zakiyah_1-scaled.jpg",
+            "school": "Winter Haven HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Zs\u00f3fia",
+            "last_name": "Telegdy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2022/08/Telegdy_Zso\u0301fia_2-scaled.jpg",
+            "school": "Trinity Christian HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "McKenzie",
+            "last_name": "Smith",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "Amarillo HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Skyler",
+            "last_name": "Gill",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2019/06/Kansas-Athletics-Logo.png",
+            "school": "Hardin County HS / North Alabama",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Nadira",
+            "last_name": "Eltayeb",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2021/05/Eltayeb_Nadira_1-scaled.jpg",
+            "school": "Thomas Jefferson HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ],
+    "wsoc": [
+        {
+            "first_name": "Sophie",
+            "last_name": "Dawe",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Dawe_Sophie_18.jpg",
+            "school": "Houston HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Gabbie",
+            "last_name": "Dawe",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Dawe_Gabbie_124.jpg",
+            "school": "Houston HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Melania",
+            "last_name": "Pasar",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Pasar_Melania_120.jpg",
+            "school": "Ginnasio Antonio Sema Pirano",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Olivia",
+            "last_name": "Page",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Page_Olivia_12.jpg",
+            "school": "Mill Valley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Saige",
+            "last_name": "Wimes",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Wimes_Saige_56.jpg",
+            "school": "St. Teresa's Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mackenzie",
+            "last_name": "Boeve",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Boeve_Mackenzie_95.jpg",
+            "school": "Lincoln Southeast HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Montelene",
+            "last_name": "Dymond",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Dymond_Montelene_1.jpg",
+            "school": "St. Joan of Arc Catholic HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Raena",
+            "last_name": "Childers",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Childers_Raena_100.jpg",
+            "school": "Grain Valley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Siera",
+            "last_name": "Herbert",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Herbert_Siera_09.jpg",
+            "school": "Perry HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Magali",
+            "last_name": "Gagn\u00e9",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Gagne\u0301_Magali_1.jpg",
+            "school": "College de Montreal",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Brie",
+            "last_name": "Severns",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Severns_Brie_141.jpg",
+            "school": "Blue Springs South HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Maree",
+            "last_name": "Shinkle",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Shinkle_Maree_48.jpg",
+            "school": "Olathe Northwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Caroline",
+            "last_name": "Castans",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Castans_Caroline_38.jpg",
+            "school": "Marcus HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Assa",
+            "last_name": "Kante",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Kante_Assa_113.jpg",
+            "school": "Saint Thomas Aquinas HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Camryn",
+            "last_name": "Bliss",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Bliss_Camryn_25.jpg",
+            "school": "Freedom HS / Ole Miss",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Lexi",
+            "last_name": "Watts",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Watts_Lexi_165.jpg",
+            "school": "St. James Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kate",
+            "last_name": "Dreyer",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Dreyer_Kate_136.jpg",
+            "school": "Cascia Hall Prep",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hallie",
+            "last_name": "Klanke",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Klanke_Hallie_90.jpg",
+            "school": "Lee\u2019s Summit West HS / North Carolina",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Hayven",
+            "last_name": "Harrison",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Harrison_Hayven_1.jpg",
+            "school": "Clemens HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Jocelyn",
+            "last_name": "Herrema",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Herrema_Jocelyn_29.jpg",
+            "school": "Caledonia HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Avery",
+            "last_name": "Smith",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Smith_Avery_166.jpg",
+            "school": "Elkhorn South HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mackenzie",
+            "last_name": "Hammontree",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Hammontree_Mackenzie_79.jpg",
+            "school": "Blue Valley HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Moira",
+            "last_name": "Kelley",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Kelley_Moira_146.jpg",
+            "school": "Saint Thomas Aquinas HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Shira",
+            "last_name": "Elinav",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Elinav_Shira_131.jpg",
+            "school": "Shefayim HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Emily",
+            "last_name": "Minard",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Minard_Emily_84.jpg",
+            "school": "Blue Valley Southwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ],
+    "wvball": [
+        {
+            "first_name": "Kennedy",
+            "last_name": "Farris",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Farris_Kennedy_1.jpg",
+            "school": "Lansing HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Raegan",
+            "last_name": "Burns",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Burns_Raegan_1.jpg",
+            "school": "McCutcheon HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Rhian",
+            "last_name": "Swanson",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Swanson_Rhian_1.jpg",
+            "school": "McPherson HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Bryn",
+            "last_name": "McGehe",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/McGehe_Bryn_1.jpg",
+            "school": "Platte County HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Molly",
+            "last_name": "Schultz",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Schultz_Molly_1.jpg",
+            "school": "Rockford HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Katie",
+            "last_name": "Dalton",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Dalton_Katie_12140.jpg",
+            "school": "Chaparral HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Reagan",
+            "last_name": "Cooper",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Cooper_Reagan_1.jpg",
+            "school": "Parish Episcopal School of Dallas",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kim",
+            "last_name": "Whetstone",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Whetstone_Kim_1.jpg",
+            "school": "Bonner Springs HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Toyosi",
+            "last_name": "Onabanjo",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Onabanjo_Toyosi_1.jpg",
+            "school": "St. Agnes Academy",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Mykayla",
+            "last_name": "Myers",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Myers_Mykayla_1.jpg",
+            "school": "Coppell High School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Kaiti",
+            "last_name": "Parks",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Parks_Kaiti_1.jpg",
+            "school": "Olathe Northwest HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Caroline",
+            "last_name": "Bien",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Bien_Caroline_1.jpg",
+            "school": "Saint Thomas Aquinas HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ellie",
+            "last_name": "Schneider",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Schneider_Ellie_1.jpg",
+            "school": "Metairie Country Day School",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Ayah",
+            "last_name": "Elnady",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Elnady_Ayah_1.jpg",
+            "school": "Ramses College For Girls",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Molly",
+            "last_name": "McCarthy",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/McCarthy_Molly_1.jpg",
+            "school": "Palm Desert HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Brynn",
+            "last_name": "Kirsch",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Kirsch_Brynn_1.jpg",
+            "school": "Lincoln HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "London",
+            "last_name": "Davis",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Davis_London_1.jpg",
+            "school": "Olentangy Orange HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Camryn",
+            "last_name": "Turner",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Turner_Camryn_1.jpg",
+            "school": "Seaman HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        },
+        {
+            "first_name": "Aisha",
+            "last_name": "Aiono",
+            "profile picture": "https://kuathletics.com/wp-content/uploads/2023/08/Aiono_Aisha_1.jpg",
+            "school": "Liberty HS",
+            "instagram": null,
+            "university": "University of Kansas",
+            "city": "Lawrence",
+            "state": "Kansas"
+        }
+    ]
+}
