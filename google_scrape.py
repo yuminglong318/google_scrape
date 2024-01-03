@@ -5,10 +5,11 @@ import json
 from functools import reduce
 import re
 from urllib.parse import urlparse, urlunparse
-from config import APIFY_TOKEN
-import time
+from config import APIFY_TOKEN, ZENROWS_API_KEY
 import requests
-from random import randint
+from zenrows import ZenRowsClient
+
+zClient = ZenRowsClient(ZENROWS_API_KEY)
 
 client = ApifyClient(APIFY_TOKEN)
 
@@ -35,6 +36,21 @@ def search_apify(query, num_results):
     
     return [res.get('url') for res in results]
 
+def search_zenrows(search_term, num_results):
+    query = search_term.replace(" ", "%20") 
+    res = zClient.get(
+        url= f"https://www.google.com/search?q={query}",
+        params={
+            "premium_proxy":"true",
+            "autoparse":"true"
+        }
+    )
+    if res.status_code == 200:
+        results = res.json().get('organic_results')
+        return [result.get('link') for result in results[:num_results]]
+    else:
+        print(f"Error {res.status_code} occured in {search_term}")
+        return []
 
 def is_social_url(url, social):
     if social == 'instagram':
@@ -51,14 +67,13 @@ def is_social_url(url, social):
 def google_results(first_name, last_name, university, major, social):
 
     
-    responses = search(f"{first_name} {last_name} {university} {social}", num_results= 2)
+    responses = search_zenrows(f"{first_name} {last_name} {university} {social}", num_results= 2)
 
     urls = []
     for res in responses:
         url = urlunparse(urlparse(res)._replace(query=''))
         if is_social_url(url, social):
             urls.append(url)
-    time.sleep(randint(30, 40))
     return urls
 
 if __name__ == '__main__':
