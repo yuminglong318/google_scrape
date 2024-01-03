@@ -8,6 +8,7 @@ from urllib.parse import urlparse, urlunparse
 from config import APIFY_TOKEN, ZENROWS_API_KEY
 import requests
 from zenrows import ZenRowsClient
+from tqdm import tqdm
 
 zClient = ZenRowsClient(ZENROWS_API_KEY)
 
@@ -91,15 +92,12 @@ if __name__ == '__main__':
 
         student_data = reduce(lambda x, y: x + y, data.values())
         
-        for student in student_data:
+        for student in tqdm(student_data):
 
             first_name = student.get('first_name')
             last_name = student.get('last_name')
             university = student.get('university')
             major = student.get('major')
-
-            if student_data.index(student) % 10 == 0:
-                print(student_data.index(student))
 
             social = {}
             try:
