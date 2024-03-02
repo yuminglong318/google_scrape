@@ -1,39 +1,11 @@
-from apify_client import ApifyClient
-from googlesearch import search
-from functools import reduce
 import re
 from urllib.parse import urlparse, urlunparse
-from config import APIFY_TOKEN, ZENROWS_API_KEY
+from config import ZENROWS_API_KEY
 import requests
 from zenrows import ZenRowsClient
 import asyncio
 
 zClient = ZenRowsClient(apikey=ZENROWS_API_KEY, retries= 0, concurrency= 5)
-
-client = ApifyClient(APIFY_TOKEN)
-
-def search_apify(query, num_results):
-    run_input = {
-        "customDataFunction": "async ({ input, $, request, response, html }) => {\n  return {\n    pageTitle: $('title').text(),\n  };\n};",
-        "includeUnfilteredResults": False,
-        "maxPagesPerQuery": 1,
-        "mobileResults": False,
-        "queries": query,
-        "resultsPerPage": num_results,
-        "saveHtml": False,
-        "saveHtmlToKeyValueStore": False
-    }
-
-    run = client.actor("nFJndFXA5zjCTuudP").call(run_input=run_input)
-
-    results = []
-    for item in client.dataset(run["defaultDatasetId"]).iterate_items():
-        results = item.get("organicResults")
-        break
-
-    requests.delete(f"https://api.apify.com/v2/actor-runs/{run['id']}?token={APIFY_TOKEN}")
-    
-    return [res.get('url') for res in results]
 
 def search_zenrows(search_term, num_results):
     query = search_term.replace(" ", "%20") 
